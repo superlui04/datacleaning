@@ -1,0 +1,892 @@
+﻿PassengerId,Survived,Pclass,SibSp,Parch,Ticket,Fare,Embarked,AgeCleaned,CabinCleaned,genderCleaned,Last_Name,Title,First_Name
+1,0,3,1,0,A/5 21171,7.25,S,22,Not Specified,Male,Braund,Mr., Owen Harris
+2,1,1,1,0,PC 17599,71.28330231,C,38,C85,Female,Cumings,Mrs., John Bradley (Florence Briggs Thayer)
+3,1,3,0,0,STON/O2. 3101282,7.925000191,S,26,Not Specified,Female,Heikkinen,Miss., Laina
+4,1,1,1,0,113803,53.09999847,S,35,C123,Female,Futrelle,Mrs., Jacques Heath (Lily May Peel)
+5,0,3,0,0,373450,8.050000191,S,35,Not Specified,Male,Allen,Mr., William Henry
+6,0,3,0,0,330877,8.458299637,Q,29.7,Not Specified,Male,Moran,Mr., James
+7,0,1,0,0,17463,51.86249924,S,54,E46,Male,McCarthy,Mr., Timothy J
+8,0,3,3,1,349909,21.07500076,S,2,Not Specified,Male,Palsson,Master., Gosta Leonard
+9,1,3,0,2,347742,11.13329983,S,27,Not Specified,Female,Johnson,Mrs., Oscar W (Elisabeth Vilhelmina Berg)
+10,1,2,1,0,237736,30.07080078,C,14,Not Specified,Female,Nasser,Mrs., Nicholas (Adele Achem)
+11,1,3,1,1,PP 9549,16.70000076,S,4,G6,Female,Sandstrom,Miss., Marguerite Rut
+12,1,1,0,0,113783,26.54999924,S,58,C103,Female,Bonnell,Miss., Elizabeth
+13,0,3,0,0,A/5. 2151,8.050000191,S,20,Not Specified,Male,Saundercock,Mr., William Henry
+14,0,3,1,5,347082,31.27499962,S,39,Not Specified,Male,Andersson,Mr., Anders Johan
+15,0,3,0,0,350406,7.854199886,S,14,Not Specified,Female,Vestrom,Miss., Hulda Amanda Adolfina
+16,1,2,0,0,248706,16,S,55,Not Specified,Female,Hewlett,Mrs., (Mary D Kingcome) 
+17,0,3,4,1,382652,29.125,Q,2,Not Specified,Male,Rice,Master., Eugene
+18,1,2,0,0,244373,13,S,29.7,Not Specified,Male,Williams,Mr., Charles Eugene
+19,0,3,1,0,345763,18,S,31,Not Specified,Female,Vander Planke,Mrs., Julius (Emelia Maria Vandemoortele)
+20,1,3,0,0,2649,7.224999905,C,29.7,Not Specified,Female,Masselmani,Mrs., Fatima
+21,0,2,0,0,239865,26,S,35,Not Specified,Male,Fynney,Mr., Joseph J
+22,1,2,0,0,248698,13,S,34,D56,Male,Beesley,Mr., Lawrence
+23,1,3,0,0,330923,8.0291996,Q,15,Not Specified,Female,McGowan,Miss.," Anna ""Annie"""
+24,1,1,0,0,113788,35.5,S,28,A6,Male,Sloper,Mr., William Thompson
+25,0,3,3,1,349909,21.07500076,S,8,Not Specified,Female,Palsson,Miss., Torborg Danira
+26,1,3,1,5,347077,31.38750076,S,38,Not Specified,Female,Asplund,Mrs., Carl Oscar (Selma Augusta Emilia Johansson)
+27,0,3,0,0,2631,7.224999905,C,29.7,Not Specified,Male,Emir,Mr., Farred Chehab
+28,0,1,3,2,19950,263,S,19,C23 C25 C27,Male,Fortune,Mr., Charles Alexander
+29,1,3,0,0,330959,7.879199982,Q,29.7,Not Specified,Female,O'Dwyer,Miss.," Ellen ""Nellie"""
+30,0,3,0,0,349216,7.895800114,S,29.7,Not Specified,Male,Todoroff,Mr., Lalio
+31,0,1,0,0,PC 17601,27.7208004,C,40,Not Specified,Male,Uruchurtu,Don., Manuel E
+32,1,1,1,0,PC 17569,146.5207977,C,29.7,B78,Female,Spencer,Mrs., William Augustus (Marie Eugenie)
+33,1,3,0,0,335677,7.75,Q,29.7,Not Specified,Female,Glynn,Miss., Mary Agatha
+34,0,2,0,0,C.A. 24579,10.5,S,66,Not Specified,Male,Wheadon,Mr., Edward H
+35,0,1,1,0,PC 17604,82.17079926,C,28,Not Specified,Male,Meyer,Mr., Edgar Joseph
+36,0,1,1,0,113789,52,S,42,Not Specified,Male,Holverson,Mr., Alexander Oskar
+37,1,3,0,0,2677,7.229199886,C,29.7,Not Specified,Male,Mamee,Mr., Hanna
+38,0,3,0,0,A./5. 2152,8.050000191,S,21,Not Specified,Male,Cann,Mr., Ernest Charles
+39,0,3,2,0,345764,18,S,18,Not Specified,Female,Vander Planke,Miss., Augusta Maria
+40,1,3,1,0,2651,11.24170017,C,14,Not Specified,Female,Nicola-Yarred,Miss., Jamila
+41,0,3,1,0,7546,9.475000381,S,40,Not Specified,Female,Ahlin,Mrs., Johan (Johanna Persdotter Larsson)
+42,0,2,1,0,11668,21,S,27,Not Specified,Female,Turpin,Mrs., William John Robert (Dorothy Ann Wonnacott)
+43,0,3,0,0,349253,7.895800114,C,29.7,Not Specified,Male,Kraeff,Mr., Theodor
+44,1,2,1,2,SC/Paris 2123,41.57920074,C,3,Not Specified,Female,Laroche,Miss., Simonne Marie Anne Andree
+45,1,3,0,0,330958,7.879199982,Q,19,Not Specified,Female,Devaney,Miss., Margaret Delia
+46,0,3,0,0,S.C./A.4. 23567,8.050000191,S,29.7,Not Specified,Male,Rogers,Mr., William John
+47,0,3,1,0,370371,15.5,Q,29.7,Not Specified,Male,Lennon,Mr., Denis
+48,1,3,0,0,14311,7.75,Q,29.7,Not Specified,Female,O'Driscoll,Miss., Bridget
+49,0,3,2,0,2662,21.67919922,C,29.7,Not Specified,Male,Samaan,Mr., Youssef
+50,0,3,1,0,349237,17.79999924,S,18,Not Specified,Female,Arnold-Franchi,Mrs., Josef (Josefine Franchi)
+51,0,3,4,1,3101295,39.6875,S,7,Not Specified,Male,Panula,Master., Juha Niilo
+52,0,3,0,0,A/4. 39886,7.800000191,S,21,Not Specified,Male,Nosworthy,Mr., Richard Cater
+53,1,1,1,0,PC 17572,76.72920227,C,49,D33,Female,Harper,Mrs., Henry Sleeper (Myna Haxtun)
+54,1,2,1,0,2926,26,S,29,Not Specified,Female,Faunthorpe,Mrs., Lizzie (Elizabeth Anne Wilkinson)
+55,0,1,0,1,113509,61.97919846,C,65,B30,Male,Ostby,Mr., Engelhart Cornelius
+56,1,1,0,0,19947,35.5,S,29.7,C52,Male,Woolner,Mr., Hugh
+57,1,2,0,0,C.A. 31026,10.5,S,21,Not Specified,Female,Rugg,Miss., Emily
+58,0,3,0,0,2697,7.229199886,C,28.5,Not Specified,Male,Novel,Mr., Mansouer
+59,1,2,1,2,C.A. 34651,27.75,S,5,Not Specified,Female,West,Miss., Constance Mirium
+60,0,3,5,2,CA 2144,46.90000153,S,11,Not Specified,Male,Goodwin,Master., William Frederick
+61,0,3,0,0,2669,7.229199886,C,22,Not Specified,Male,Sirayanian,Mr., Orsen
+62,1,1,0,0,113572,80,NULL,38,B28,Female,Icard,Miss., Amelie
+63,0,1,1,0,36973,83.47499847,S,45,C83,Male,Harris,Mr., Henry Birkhardt
+64,0,3,3,2,347088,27.89999962,S,4,Not Specified,Male,Skoog,Master., Harald
+65,0,1,0,0,PC 17605,27.7208004,C,29.7,Not Specified,Male,Stewart,Mr., Albert A
+66,1,3,1,1,2661,15.24580002,C,29.7,Not Specified,Male,Moubarek,Master., Gerios
+67,1,2,0,0,C.A. 29395,10.5,S,29,F33,Female,Nye,Mrs., (Elizabeth Ramell)
+68,0,3,0,0,S.P. 3464,8.1583004,S,19,Not Specified,Male,Crease,Mr., Ernest James
+69,1,3,4,2,3101281,7.925000191,S,17,Not Specified,Female,Andersson,Miss., Erna Alexandra
+70,0,3,2,0,315151,8.662500381,S,26,Not Specified,Male,Kink,Mr., Vincenz
+71,0,2,0,0,C.A. 33111,10.5,S,32,Not Specified,Male,Jenkin,Mr., Stephen Curnow
+72,0,3,5,2,CA 2144,46.90000153,S,16,Not Specified,Female,Goodwin,Miss., Lillian Amy
+73,0,2,0,0,S.O.C. 14879,73.5,S,21,Not Specified,Male,Hood,Mr., Ambrose Jr
+74,0,3,1,0,2680,14.45419979,C,26,Not Specified,Male,Chronopoulos,Mr., Apostolos
+75,1,3,0,0,1601,56.49580002,S,32,Not Specified,Male,Bing,Mr., Lee
+76,0,3,0,0,348123,7.650000095,S,25,F G73,Male,Moen,Mr., Sigurd Hansen
+77,0,3,0,0,349208,7.895800114,S,29.7,Not Specified,Male,Staneff,Mr., Ivan
+78,0,3,0,0,374746,8.050000191,S,29.7,Not Specified,Male,Moutal,Mr., Rahamin Haim
+79,1,2,0,2,248738,29,S,0.829999983,Not Specified,Male,Caldwell,Master., Alden Gates
+80,1,3,0,0,364516,12.47500038,S,30,Not Specified,Female,Dowdell,Miss., Elizabeth
+81,0,3,0,0,345767,9,S,22,Not Specified,Male,Waelens,Mr., Achille
+82,1,3,0,0,345779,9.5,S,29,Not Specified,Male,Sheerlinck,Mr., Jan Baptist
+83,1,3,0,0,330932,7.787499905,Q,29.7,Not Specified,Female,McDermott,Miss., Brigdet Delia
+84,0,1,0,0,113059,47.09999847,S,28,Not Specified,Male,Carrau,Mr., Francisco M
+85,1,2,0,0,SO/C 14885,10.5,S,17,Not Specified,Female,Ilett,Miss., Bertha
+86,1,3,3,0,3101278,15.85000038,S,33,Not Specified,Female,Backstrom,Mrs., Karl Alfred (Maria Mathilda Gustafsson)
+87,0,3,1,3,W./C. 6608,34.375,S,16,Not Specified,Male,Ford,Mr., William Neal
+88,0,3,0,0,SOTON/OQ 392086,8.050000191,S,29.7,Not Specified,Male,Slocovski,Mr., Selman Francis
+89,1,1,3,2,19950,263,S,23,C23 C25 C27,Female,Fortune,Miss., Mabel Helen
+90,0,3,0,0,343275,8.050000191,S,24,Not Specified,Male,Celotti,Mr., Francesco
+91,0,3,0,0,343276,8.050000191,S,29,Not Specified,Male,Christmann,Mr., Emil
+92,0,3,0,0,347466,7.854199886,S,20,Not Specified,Male,Andreasson,Mr., Paul Edvin
+93,0,1,1,0,W.E.P. 5734,61.17499924,S,46,E31,Male,Chaffee,Mr., Herbert Fuller
+94,0,3,1,2,C.A. 2315,20.57500076,S,26,Not Specified,Male,Dean,Mr., Bertram Frank
+95,0,3,0,0,364500,7.25,S,59,Not Specified,Male,Coxon,Mr., Daniel
+96,0,3,0,0,374910,8.050000191,S,29.7,Not Specified,Male,Shorney,Mr., Charles Joseph
+97,0,1,0,0,PC 17754,34.65420151,C,71,A5,Male,Goldschmidt,Mr., George B
+98,1,1,0,1,PC 17759,63.35829926,C,23,D10 D12,Male,Greenfield,Mr., William Bertram
+99,1,2,0,1,231919,23,S,34,Not Specified,Female,Doling,Mrs., John T (Ada Julia Bone)
+100,0,2,1,0,244367,26,S,34,Not Specified,Male,Kantor,Mr., Sinai
+101,0,3,0,0,349245,7.895800114,S,28,Not Specified,Female,Petranec,Miss., Matilda
+102,0,3,0,0,349215,7.895800114,S,29.7,Not Specified,Male,Petroff,Mr.," Pastcho (""Pentcho"")"
+103,0,1,0,1,35281,77.28749847,S,21,D26,Male,White,Mr., Richard Frasar
+104,0,3,0,0,7540,8.6541996,S,33,Not Specified,Male,Johansson,Mr., Gustaf Joel
+105,0,3,2,0,3101276,7.925000191,S,37,Not Specified,Male,Gustafsson,Mr., Anders Vilhelm
+106,0,3,0,0,349207,7.895800114,S,28,Not Specified,Male,Mionoff,Mr., Stoytcho
+107,1,3,0,0,343120,7.650000095,S,21,Not Specified,Female,Salkjelsvik,Miss., Anna Kristine
+108,1,3,0,0,312991,7.775000095,S,29.7,Not Specified,Male,Moss,Mr., Albert Johan
+109,0,3,0,0,349249,7.895800114,S,38,Not Specified,Male,Rekic,Mr., Tido
+110,1,3,1,0,371110,24.14999962,Q,29.7,Not Specified,Female,Moran,Miss., Bertha
+111,0,1,0,0,110465,52,S,47,C110,Male,Porter,Mr., Walter Chamberlain
+112,0,3,1,0,2665,14.45419979,C,14.5,Not Specified,Female,Zabour,Miss., Hileni
+113,0,3,0,0,324669,8.050000191,S,22,Not Specified,Male,Barton,Mr., David John
+114,0,3,1,0,4136,9.824999809,S,20,Not Specified,Female,Jussila,Miss., Katriina
+115,0,3,0,0,2627,14.45829964,C,17,Not Specified,Female,Attalah,Miss., Malake
+116,0,3,0,0,STON/O 2. 3101294,7.925000191,S,21,Not Specified,Male,Pekoniemi,Mr., Edvard
+117,0,3,0,0,370369,7.75,Q,70.5,Not Specified,Male,Connors,Mr., Patrick
+118,0,2,1,0,11668,21,S,29,Not Specified,Male,Turpin,Mr., William John Robert
+119,0,1,0,1,PC 17558,247.5207977,C,24,B58 B60,Male,Baxter,Mr., Quigg Edmond
+120,0,3,4,2,347082,31.27499962,S,2,Not Specified,Female,Andersson,Miss., Ellis Anna Maria
+121,0,2,2,0,S.O.C. 14879,73.5,S,21,Not Specified,Male,Hickman,Mr., Stanley George
+122,0,3,0,0,A4. 54510,8.050000191,S,29.7,Not Specified,Male,Moore,Mr., Leonard Charles
+123,0,2,1,0,237736,30.07080078,C,32.5,Not Specified,Male,Nasser,Mr., Nicholas
+124,1,2,0,0,27267,13,S,32.5,E101,Female,Webber,Miss., Susan
+125,0,1,0,1,35281,77.28749847,S,54,D26,Male,White,Mr., Percival Wayland
+126,1,3,1,0,2651,11.24170017,C,12,Not Specified,Male,Nicola-Yarred,Master., Elias
+127,0,3,0,0,370372,7.75,Q,29.7,Not Specified,Male,McMahon,Mr., Martin
+128,1,3,0,0,C 17369,7.141699791,S,24,Not Specified,Male,Madsen,Mr., Fridtjof Arne
+129,1,3,1,1,2668,22.35829926,C,29.7,F E69,Female,Peter,Miss., Anna
+130,0,3,0,0,347061,6.974999905,S,45,Not Specified,Male,Ekstrom,Mr., Johan
+131,0,3,0,0,349241,7.895800114,C,33,Not Specified,Male,Drazenoic,Mr., Jozef
+132,0,3,0,0,SOTON/O.Q. 3101307,7.050000191,S,20,Not Specified,Male,Coelho,Mr., Domingos Fernandeo
+133,0,3,1,0,A/5. 3337,14.5,S,47,Not Specified,Female,Robins,Mrs., Alexander A (Grace Charity Laury)
+134,1,2,1,0,228414,26,S,29,Not Specified,Female,Weisz,Mrs., Leopold (Mathilde Francoise Pede)
+135,0,2,0,0,C.A. 29178,13,S,25,Not Specified,Male,Sobey,Mr., Samuel James Hayden
+136,0,2,0,0,SC/PARIS 2133,15.04580021,C,23,Not Specified,Male,Richard,Mr., Emile
+137,1,1,0,2,11752,26.2833004,S,19,D47,Female,Newsom,Miss., Helen Monypeny
+138,0,1,1,0,113803,53.09999847,S,37,C123,Male,Futrelle,Mr., Jacques Heath
+139,0,3,0,0,7534,9.2166996,S,16,Not Specified,Male,Osen,Mr., Olaf Elon
+140,0,1,0,0,PC 17593,79.19999695,C,24,B86,Male,Giglio,Mr., Victor
+141,0,3,0,2,2678,15.24580002,C,29.7,Not Specified,Female,Boulos,Mrs., Joseph (Sultana)
+142,1,3,0,0,347081,7.75,S,22,Not Specified,Female,Nysten,Miss., Anna Sofia
+143,1,3,1,0,STON/O2. 3101279,15.85000038,S,24,Not Specified,Female,Hakkarainen,Mrs., Pekka Pietari (Elin Matilda Dolck)
+144,0,3,0,0,365222,6.75,Q,19,Not Specified,Male,Burke,Mr., Jeremiah
+145,0,2,0,0,231945,11.5,S,18,Not Specified,Male,Andrew,Mr., Edgardo Samuel
+146,0,2,1,1,C.A. 33112,36.75,S,19,Not Specified,Male,Nicholls,Mr., Joseph Charles
+147,1,3,0,0,350043,7.795800209,S,27,Not Specified,Male,Andersson,Mr.," August Edvard (""Wennerstrom"")"
+148,0,3,2,2,W./C. 6608,34.375,S,9,Not Specified,Female,Ford,Miss.," Robina Maggie ""Ruby"""
+149,0,2,0,2,230080,26,S,36.5,F2,Male,Navratil,Mr.," Michel (""Louis M Hoffman"")"
+150,0,2,0,0,244310,13,S,42,Not Specified,Male,Byles,Rev., Thomas Roussel Davids
+151,0,2,0,0,S.O.P. 1166,12.52499962,S,51,Not Specified,Male,Bateman,Rev., Robert James
+152,1,1,1,0,113776,66.59999847,S,22,C2,Female,Pears,Mrs., Thomas (Edith Wearne)
+153,0,3,0,0,A.5. 11206,8.050000191,S,55.5,Not Specified,Male,Meo,Mr., Alfonzo
+154,0,3,0,2,A/5. 851,14.5,S,40.5,Not Specified,Male,van Billiard,Mr., Austin Blyler
+155,0,3,0,0,Fa 265302,7.3125,S,29.7,Not Specified,Male,Olsen,Mr., Ole Martin
+156,0,1,0,1,PC 17597,61.37919998,C,51,Not Specified,Male,Williams,Mr., Charles Duane
+157,1,3,0,0,35851,7.733300209,Q,16,Not Specified,Female,Gilnagh,Miss.," Katherine ""Katie"""
+158,0,3,0,0,SOTON/OQ 392090,8.050000191,S,30,Not Specified,Male,Corn,Mr., Harry
+159,0,3,0,0,315037,8.662500381,S,29.7,Not Specified,Male,Smiljanic,Mr., Mile
+160,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Male,Sage,Master., Thomas Henry
+161,0,3,0,1,371362,16.10000038,S,44,Not Specified,Male,Cribb,Mr., John Hatfield
+162,1,2,0,0,C.A. 33595,15.75,S,40,Not Specified,Female,Watt,Mrs.," James (Elizabeth ""Bessie"" Inglis Milne)"
+163,0,3,0,0,347068,7.775000095,S,26,Not Specified,Male,Bengtsson,Mr., John Viktor
+164,0,3,0,0,315093,8.662500381,S,17,Not Specified,Male,Calic,Mr., Jovo
+165,0,3,4,1,3101295,39.6875,S,1,Not Specified,Male,Panula,Master., Eino Viljami
+166,1,3,0,2,363291,20.52499962,S,9,Not Specified,Male,Goldsmith,Master.," Frank John William ""Frankie"""
+167,1,1,0,1,113505,55,S,29.7,E33,Female,Chibnall,Mrs., (Edith Martha Bowerman)
+168,0,3,1,4,347088,27.89999962,S,45,Not Specified,Female,Skoog,Mrs., William (Anna Bernhardina Karlsson)
+169,0,1,0,0,PC 17318,25.92499924,S,29.7,Not Specified,Male,Baumann,Mr., John D
+170,0,3,0,0,1601,56.49580002,S,28,Not Specified,Male,Ling,Mr., Lee
+171,0,1,0,0,111240,33.5,S,61,B19,Male,Van der hoef,Mr., Wyckoff
+172,0,3,4,1,382652,29.125,Q,4,Not Specified,Male,Rice,Master., Arthur
+173,1,3,1,1,347742,11.13329983,S,1,Not Specified,Female,Johnson,Miss., Eleanor Ileen
+174,0,3,0,0,STON/O 2. 3101280,7.925000191,S,21,Not Specified,Male,Sivola,Mr., Antti Wilhelm
+175,0,1,0,0,17764,30.69580078,C,56,A7,Male,Smith,Mr., James Clinch
+176,0,3,1,1,350404,7.854199886,S,18,Not Specified,Male,Klasen,Mr., Klas Albin
+177,0,3,3,1,4133,25.4666996,S,29.7,Not Specified,Male,Lefebre,Master., Henry Forbes
+178,0,1,0,0,PC 17595,28.71249962,C,50,C49,Female,Isham,Miss., Ann Elizabeth
+179,0,2,0,0,250653,13,S,30,Not Specified,Male,Hale,Mr., Reginald
+180,0,3,0,0,LINE,0,S,36,Not Specified,Male,Leonard,Mr., Lionel
+181,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Female,Sage,Miss., Constance Gladys
+182,0,2,0,0,SC/PARIS 2131,15.05000019,C,29.7,Not Specified,Male,Pernot,Mr., Rene
+183,0,3,4,2,347077,31.38750076,S,9,Not Specified,Male,Asplund,Master., Clarence Gustaf Hugo
+184,1,2,2,1,230136,39,S,1,F4,Male,Becker,Master., Richard F
+185,1,3,0,2,315153,22.02499962,S,4,Not Specified,Female,Kink-Heilmann,Miss., Luise Gretchen
+186,0,1,0,0,113767,50,S,29.7,A32,Male,Rood,Mr., Hugh Roscoe
+187,1,3,1,0,370365,15.5,Q,29.7,Not Specified,Female,O'Brien,Mrs.," Thomas (Johanna ""Hannah"" Godfrey)"
+188,1,1,0,0,111428,26.54999924,S,45,Not Specified,Male,Romaine,Mr.," Charles Hallace (""Mr C Rolmane"")"
+189,0,3,1,1,364849,15.5,Q,40,Not Specified,Male,Bourke,Mr., John
+190,0,3,0,0,349247,7.895800114,S,36,Not Specified,Male,Turcin,Mr., Stjepan
+191,1,2,0,0,234604,13,S,32,Not Specified,Female,Pinsky,Mrs., (Rosa)
+192,0,2,0,0,28424,13,S,19,Not Specified,Male,Carbines,Mr., William
+193,1,3,1,0,350046,7.854199886,S,19,Not Specified,Female,Andersen-Jensen,Miss., Carla Christine Nielsine
+194,1,2,1,1,230080,26,S,3,F2,Male,Navratil,Master., Michel M
+195,1,1,0,0,PC 17610,27.7208004,C,44,B4,Female,Brown,Mrs., James Joseph (Margaret Tobin)
+196,1,1,0,0,PC 17569,146.5207977,C,58,B80,Female,Lurette,Miss., Elise
+197,0,3,0,0,368703,7.75,Q,29.7,Not Specified,Male,Mernagh,Mr., Robert
+198,0,3,0,1,4579,8.4041996,S,42,Not Specified,Male,Olsen,Mr., Karl Siegwart Andreas
+199,1,3,0,0,370370,7.75,Q,29.7,Not Specified,Female,Madigan,Miss.," Margaret ""Maggie"""
+200,0,2,0,0,248747,13,S,24,Not Specified,Female,Yrois,Miss.," Henriette (""Mrs Harbeck"")"
+201,0,3,0,0,345770,9.5,S,28,Not Specified,Male,Vande Walle,Mr., Nestor Cyriel
+202,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Male,Sage,Mr., Frederick
+203,0,3,0,0,3101264,6.495800018,S,34,Not Specified,Male,Johanson,Mr., Jakob Alfred
+204,0,3,0,0,2628,7.224999905,C,45.5,Not Specified,Male,Youseff,Mr., Gerious
+205,1,3,0,0,A/5 3540,8.050000191,S,18,Not Specified,Male,Cohen,Mr.," Gurshon ""Gus"""
+206,0,3,0,1,347054,10.46249962,S,2,G6,Female,Strom,Miss., Telma Matilda
+207,0,3,1,0,3101278,15.85000038,S,32,Not Specified,Male,Backstrom,Mr., Karl Alfred
+208,1,3,0,0,2699,18.78750038,C,26,Not Specified,Male,Albimona,Mr., Nassef Cassem
+209,1,3,0,0,367231,7.75,Q,16,Not Specified,Female,Carr,Miss.," Helen ""Ellen"""
+210,1,1,0,0,112277,31,C,40,A31,Male,Blank,Mr., Henry
+211,0,3,0,0,SOTON/O.Q. 3101311,7.050000191,S,24,Not Specified,Male,Ali,Mr., Ahmed
+212,1,2,0,0,F.C.C. 13528,21,S,35,Not Specified,Female,Cameron,Miss., Clear Annie
+213,0,3,0,0,A/5 21174,7.25,S,22,Not Specified,Male,Perkin,Mr., John Henry
+214,0,2,0,0,250646,13,S,30,Not Specified,Male,Givard,Mr., Hans Kristensen
+215,0,3,1,0,367229,7.75,Q,29.7,Not Specified,Male,Kiernan,Mr., Philip
+216,1,1,1,0,35273,113.2750015,C,31,D36,Female,Newell,Miss., Madeleine
+217,1,3,0,0,STON/O2. 3101283,7.925000191,S,27,Not Specified,Female,Honkanen,Miss., Eliina
+218,0,2,1,0,243847,27,S,42,Not Specified,Male,Jacobsohn,Mr., Sidney Samuel
+219,1,1,0,0,11813,76.29170227,C,32,D15,Female,Bazzani,Miss., Albina
+220,0,2,0,0,W/C 14208,10.5,S,30,Not Specified,Male,Harris,Mr., Walter
+221,1,3,0,0,SOTON/OQ 392089,8.050000191,S,16,Not Specified,Male,Sunderland,Mr., Victor Francis
+222,0,2,0,0,220367,13,S,27,Not Specified,Male,Bracken,Mr., James H
+223,0,3,0,0,21440,8.050000191,S,51,Not Specified,Male,Green,Mr., George Henry
+224,0,3,0,0,349234,7.895800114,S,29.7,Not Specified,Male,Nenkoff,Mr., Christo
+225,1,1,1,0,19943,90,S,38,C93,Male,Hoyt,Mr., Frederick Maxfield
+226,0,3,0,0,PP 4348,9.350000381,S,22,Not Specified,Male,Berglund,Mr., Karl Ivar Sven
+227,1,2,0,0,SW/PP 751,10.5,S,19,Not Specified,Male,Mellors,Mr., William John
+228,0,3,0,0,A/5 21173,7.25,S,20.5,Not Specified,Male,Lovell,Mr.," John Hall (""Henry"")"
+229,0,2,0,0,236171,13,S,18,Not Specified,Male,Fahlstrom,Mr., Arne Jonas
+230,0,3,3,1,4133,25.4666996,S,29.7,Not Specified,Female,Lefebre,Miss., Mathilde
+231,1,1,1,0,36973,83.47499847,S,35,C83,Female,Harris,Mrs., Henry Birkhardt (Irene Wallach)
+232,0,3,0,0,347067,7.775000095,S,29,Not Specified,Male,Larsson,Mr., Bengt Edvin
+233,0,2,0,0,237442,13.5,S,59,Not Specified,Male,Sjostedt,Mr., Ernst Adolf
+234,1,3,4,2,347077,31.38750076,S,5,Not Specified,Female,Asplund,Miss., Lillian Gertrud
+235,0,2,0,0,C.A. 29566,10.5,S,24,Not Specified,Male,Leyson,Mr., Robert William Norman
+236,0,3,0,0,W./C. 6609,7.550000191,S,29.7,Not Specified,Female,Harknett,Miss., Alice Phoebe
+237,0,2,1,0,26707,26,S,44,Not Specified,Male,Hold,Mr., Stephen
+238,1,2,0,2,C.A. 31921,26.25,S,8,Not Specified,Female,Collyer,Miss.," Marjorie ""Lottie"""
+239,0,2,0,0,28665,10.5,S,19,Not Specified,Male,Pengelly,Mr., Frederick William
+240,0,2,0,0,SCO/W 1585,12.27499962,S,33,Not Specified,Male,Hunt,Mr., George Henry
+241,0,3,1,0,2665,14.45419979,C,29.7,Not Specified,Female,Zabour,Miss., Thamine
+242,1,3,1,0,367230,15.5,Q,29.7,Not Specified,Female,Murphy,Miss.," Katherine ""Kate"""
+243,0,2,0,0,W./C. 14263,10.5,S,29,Not Specified,Male,Coleridge,Mr., Reginald Charles
+244,0,3,0,0,STON/O 2. 3101275,7.125,S,22,Not Specified,Male,Maenpaa,Mr., Matti Alexanteri
+245,0,3,0,0,2694,7.224999905,C,30,Not Specified,Male,Attalah,Mr., Sleiman
+246,0,1,2,0,19928,90,Q,44,C78,Male,Minahan,Dr., William Edward
+247,0,3,0,0,347071,7.775000095,S,25,Not Specified,Female,Lindahl,Miss., Agda Thorilda Viktoria
+248,1,2,0,2,250649,14.5,S,24,Not Specified,Female,Hamalainen,Mrs., William (Anna)
+249,1,1,1,1,11751,52.55419922,S,37,D35,Male,Beckwith,Mr., Richard Leonard
+250,0,2,1,0,244252,26,S,54,Not Specified,Male,Carter,Rev., Ernest Courtenay
+251,0,3,0,0,362316,7.25,S,29.7,Not Specified,Male,Reed,Mr., James George
+252,0,3,1,1,347054,10.46249962,S,29,G6,Female,Strom,Mrs., Wilhelm (Elna Matilda Persson)
+253,0,1,0,0,113514,26.54999924,S,62,C87,Male,Stead,Mr., William Thomas
+254,0,3,1,0,A/5. 3336,16.10000038,S,30,Not Specified,Male,Lobb,Mr., William Arthur
+255,0,3,0,2,370129,20.21249962,S,41,Not Specified,Female,Rosblom,Mrs., Viktor (Helena Wilhelmina)
+256,1,3,0,2,2650,15.24580002,C,29,Not Specified,Female,Touma,Mrs., Darwis (Hanne Youssef Razi)
+257,1,1,0,0,PC 17585,79.19999695,C,29.7,Not Specified,Female,Thorne,Mrs., Gertrude Maybelle
+258,1,1,0,0,110152,86.5,S,30,B77,Female,Cherry,Miss., Gladys
+259,1,1,0,0,PC 17755,512.3292236,C,35,Not Specified,Female,Ward,Miss., Anna
+260,1,2,0,1,230433,26,S,50,Not Specified,Female,Parrish,Mrs., (Lutie Davis)
+261,0,3,0,0,384461,7.75,Q,29.7,Not Specified,Male,Smith,Mr., Thomas
+262,1,3,4,2,347077,31.38750076,S,3,Not Specified,Male,Asplund,Master., Edvin Rojj Felix
+263,0,1,1,1,110413,79.65000153,S,52,E67,Male,Taussig,Mr., Emil
+264,0,1,0,0,112059,0,S,40,B94,Male,Harrison,Mr., William
+265,0,3,0,0,382649,7.75,Q,29.7,Not Specified,Female,Henry,Miss., Delia
+266,0,2,0,0,C.A. 17248,10.5,S,36,Not Specified,Male,Reeves,Mr., David
+267,0,3,4,1,3101295,39.6875,S,16,Not Specified,Male,Panula,Mr., Ernesti Arvid
+268,1,3,1,0,347083,7.775000095,S,25,Not Specified,Male,Persson,Mr., Ernst Ulrik
+269,1,1,0,1,PC 17582,153.4624939,S,58,C125,Female,Graham,Mrs., William Thompson (Edith Junkins)
+270,1,1,0,0,PC 17760,135.6333008,S,35,C99,Female,Bissette,Miss., Amelia
+271,0,1,0,0,113798,31,S,29.7,Not Specified,Male,Cairns,Mr., Alexander
+272,1,3,0,0,LINE,0,S,25,Not Specified,Male,Tornquist,Mr., William Henry
+273,1,2,0,1,250644,19.5,S,41,Not Specified,Female,Mellinger,Mrs., (Elizabeth Anne Maidment)
+274,0,1,0,1,PC 17596,29.70000076,C,37,C118,Male,Natsch,Mr., Charles H
+275,1,3,0,0,370375,7.75,Q,29.7,Not Specified,Female,Healy,Miss.," Hanora ""Nora"""
+276,1,1,1,0,13502,77.95829773,S,63,D7,Female,Andrews,Miss., Kornelia Theodosia
+277,0,3,0,0,347073,7.75,S,45,Not Specified,Female,Lindblom,Miss., Augusta Charlotta
+278,0,2,0,0,239853,0,S,29.7,Not Specified,Male,Parkes,Mr.," Francis ""Frank"""
+279,0,3,4,1,382652,29.125,Q,7,Not Specified,Male,Rice,Master., Eric
+280,1,3,1,1,C.A. 2673,20.25,S,35,Not Specified,Female,Abbott,Mrs., Stanton (Rosa Hunt)
+281,0,3,0,0,336439,7.75,Q,65,Not Specified,Male,Duane,Mr., Frank
+282,0,3,0,0,347464,7.854199886,S,28,Not Specified,Male,Olsson,Mr., Nils Johan Goransson
+283,0,3,0,0,345778,9.5,S,16,Not Specified,Male,de Pelsmaeker,Mr., Alfons
+284,1,3,0,0,A/5. 10482,8.050000191,S,19,Not Specified,Male,Dorking,Mr., Edward Arthur
+285,0,1,0,0,113056,26,S,29.7,A19,Male,Smith,Mr., Richard William
+286,0,3,0,0,349239,8.662500381,C,33,Not Specified,Male,Stankovic,Mr., Ivan
+287,1,3,0,0,345774,9.5,S,30,Not Specified,Male,de Mulder,Mr., Theodore
+288,0,3,0,0,349206,7.895800114,S,22,Not Specified,Male,Naidenoff,Mr., Penko
+289,1,2,0,0,237798,13,S,42,Not Specified,Male,Hosono,Mr., Masabumi
+290,1,3,0,0,370373,7.75,Q,22,Not Specified,Female,Connolly,Miss., Kate
+291,1,1,0,0,19877,78.84999847,S,26,Not Specified,Female,Barber,Miss.," Ellen ""Nellie"""
+292,1,1,1,0,11967,91.07920074,C,19,B49,Female,Bishop,Mrs., Dickinson H (Helen Walton)
+293,0,2,0,0,SC/Paris 2163,12.875,C,36,D,Male,Levy,Mr., Rene Jacques
+294,0,3,0,0,349236,8.850000381,S,24,Not Specified,Female,Haas,Miss., Aloisia
+295,0,3,0,0,349233,7.895800114,S,24,Not Specified,Male,Mineff,Mr., Ivan
+296,0,1,0,0,PC 17612,27.7208004,C,29.7,Not Specified,Male,Lewy,Mr., Ervin G
+297,0,3,0,0,2693,7.229199886,C,23.5,Not Specified,Male,Hanna,Mr., Mansour
+298,0,1,1,2,113781,151.5500031,S,2,C22 C26,Female,Allison,Miss., Helen Loraine
+299,1,1,0,0,19988,30.5,S,29.7,C106,Male,Saalfeld,Mr., Adolphe
+300,1,1,0,1,PC 17558,247.5207977,C,50,B58 B60,Female,Baxter,Mrs., James (Helene DeLaudeniere Chaput)
+301,1,3,0,0,9234,7.75,Q,29.7,Not Specified,Female,Kelly,Miss.," Anna Katherine ""Annie Kate"""
+302,1,3,2,0,367226,23.25,Q,29.7,Not Specified,Male,McCoy,Mr., Bernard
+303,0,3,0,0,LINE,0,S,19,Not Specified,Male,Johnson,Mr., William Cahoone Jr
+304,1,2,0,0,226593,12.35000038,Q,29.7,E101,Female,Keane,Miss., Nora A
+305,0,3,0,0,A/5 2466,8.050000191,S,29.7,Not Specified,Male,Williams,Mr.," Howard Hugh ""Harry"""
+306,1,1,1,2,113781,151.5500031,S,0.920000017,C22 C26,Male,Allison,Master., Hudson Trevor
+307,1,1,0,0,17421,110.8833008,C,29.7,Not Specified,Female,Fleming,Miss., Margaret
+308,1,1,1,0,PC 17758,108.9000015,C,17,C65,Female,Penasco y Castellana,Mrs., Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+309,0,2,1,0,P/PP 3381,24,C,30,Not Specified,Male,Abelson,Mr., Samuel
+310,1,1,0,0,PC 17485,56.92919922,C,30,E36,Female,Francatelli,Miss., Laura Mabel
+311,1,1,0,0,11767,83.15830231,C,24,C54,Female,Hays,Miss., Margaret Bechstein
+312,1,1,2,2,PC 17608,262.375,C,18,B57 B59 B63 B66,Female,Ryerson,Miss., Emily Borie
+313,0,2,1,1,250651,26,S,26,Not Specified,Female,Lahtinen,Mrs., William (Anna Sylfven)
+314,0,3,0,0,349243,7.895800114,S,28,Not Specified,Male,Hendekovic,Mr., Ignjac
+315,0,2,1,1,F.C.C. 13529,26.25,S,43,Not Specified,Male,Hart,Mr., Benjamin
+316,1,3,0,0,347470,7.854199886,S,26,Not Specified,Female,Nilsson,Miss., Helmina Josefina
+317,1,2,1,0,244367,26,S,24,Not Specified,Female,Kantor,Mrs., Sinai (Miriam Sternin)
+318,0,2,0,0,29011,14,S,54,Not Specified,Male,Moraweck,Dr., Ernest
+319,1,1,0,2,36928,164.8666992,S,31,C7,Female,Wick,Miss., Mary Natalie
+320,1,1,1,1,16966,134.5,C,40,E34,Female,Spedden,Mrs., Frederic Oakley (Margaretta Corning Stone)
+321,0,3,0,0,A/5 21172,7.25,S,22,Not Specified,Male,Dennis,Mr., Samuel
+322,0,3,0,0,349219,7.895800114,S,27,Not Specified,Male,Danoff,Mr., Yoto
+323,1,2,0,0,234818,12.35000038,Q,30,Not Specified,Female,Slayter,Miss., Hilda Mary
+324,1,2,1,1,248738,29,S,22,Not Specified,Female,Caldwell,Mrs., Albert Francis (Sylvia Mae Harbaugh)
+325,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Male,Sage,Mr., George John Jr
+326,1,1,0,0,PC 17760,135.6333008,C,36,C32,Female,Young,Miss., Marie Grice
+327,0,3,0,0,345364,6.237500191,S,61,Not Specified,Male,Nysveen,Mr., Johan Hansen
+328,1,2,0,0,28551,13,S,36,D,Female,Ball,Mrs., (Ada E Hall)
+329,1,3,1,1,363291,20.52499962,S,31,Not Specified,Female,Goldsmith,Mrs., Frank John (Emily Alice Brown)
+330,1,1,0,1,111361,57.97919846,C,16,B18,Female,Hippach,Miss., Jean Gertrude
+331,1,3,2,0,367226,23.25,Q,29.7,Not Specified,Female,McCoy,Miss., Agnes
+332,0,1,0,0,113043,28.5,S,45.5,C124,Male,Partner,Mr., Austen
+333,0,1,0,1,PC 17582,153.4624939,S,38,C91,Male,Graham,Mr., George Edward
+334,0,3,2,0,345764,18,S,16,Not Specified,Male,Vander Planke,Mr., Leo Edmondus
+335,1,1,1,0,PC 17611,133.6499939,S,29.7,Not Specified,Female,Frauenthal,Mrs., Henry William (Clara Heinsheimer)
+336,0,3,0,0,349225,7.895800114,S,29.7,Not Specified,Male,Denkoff,Mr., Mitto
+337,0,1,1,0,113776,66.59999847,S,29,C2,Male,Pears,Mr., Thomas Clinton
+338,1,1,0,0,16966,134.5,C,41,E40,Female,Burns,Miss., Elizabeth Margaret
+339,1,3,0,0,7598,8.050000191,S,45,Not Specified,Male,Dahl,Mr., Karl Edwart
+340,0,1,0,0,113784,35.5,S,45,T,Male,Blackwell,Mr., Stephen Weart
+341,1,2,1,1,230080,26,S,2,F2,Male,Navratil,Master., Edmond Roger
+342,1,1,3,2,19950,263,S,24,C23 C25 C27,Female,Fortune,Miss., Alice Elizabeth
+343,0,2,0,0,248740,13,S,28,Not Specified,Male,Collander,Mr., Erik Gustaf
+344,0,2,0,0,244361,13,S,25,Not Specified,Male,Sedgwick,Mr., Charles Frederick Waddington
+345,0,2,0,0,229236,13,S,36,Not Specified,Male,Fox,Mr., Stanley Hubert
+346,1,2,0,0,248733,13,S,24,F33,Female,Brown,Miss.," Amelia ""Mildred"""
+347,1,2,0,0,31418,13,S,40,Not Specified,Female,Smith,Miss., Marion Elsie
+348,1,3,1,0,386525,16.10000038,S,29.7,Not Specified,Female,Davison,Mrs., Thomas Henry (Mary E Finck)
+349,1,3,1,1,C.A. 37671,15.89999962,S,3,Not Specified,Male,Coutts,Master.," William Loch ""William"""
+350,0,3,0,0,315088,8.662500381,S,42,Not Specified,Male,Dimic,Mr., Jovan
+351,0,3,0,0,7267,9.225000381,S,23,Not Specified,Male,Odahl,Mr., Nils Martin
+352,0,1,0,0,113510,35,S,29.7,C128,Male,Williams-Lambert,Mr., Fletcher Fellows
+353,0,3,1,1,2695,7.229199886,C,15,Not Specified,Male,Elias,Mr., Tannous
+354,0,3,1,0,349237,17.79999924,S,25,Not Specified,Male,Arnold-Franchi,Mr., Josef
+355,0,3,0,0,2647,7.224999905,C,29.7,Not Specified,Male,Yousif,Mr., Wazli
+356,0,3,0,0,345783,9.5,S,28,Not Specified,Male,Vanden Steen,Mr., Leo Peter
+357,1,1,0,1,113505,55,S,22,E33,Female,Bowerman,Miss., Elsie Edith
+358,0,2,0,0,237671,13,S,38,Not Specified,Female,Funk,Miss., Annie Clemmer
+359,1,3,0,0,330931,7.879199982,Q,29.7,Not Specified,Female,McGovern,Miss., Mary
+360,1,3,0,0,330980,7.879199982,Q,29.7,Not Specified,Female,Mockler,Miss.," Helen Mary ""Ellie"""
+361,0,3,1,4,347088,27.89999962,S,40,Not Specified,Male,Skoog,Mr., Wilhelm
+362,0,2,1,0,SC/PARIS 2167,27.7208004,C,29,Not Specified,Male,del Carlo,Mr., Sebastiano
+363,0,3,0,1,2691,14.45419979,C,45,Not Specified,Female,Barbara,Mrs., (Catherine David)
+364,0,3,0,0,SOTON/O.Q. 3101310,7.050000191,S,35,Not Specified,Male,Asim,Mr., Adola
+365,0,3,1,0,370365,15.5,Q,29.7,Not Specified,Male,O'Brien,Mr., Thomas
+366,0,3,0,0,C 7076,7.25,S,30,Not Specified,Male,Adahl,Mr., Mauritz Nils Martin
+367,1,1,1,0,110813,75.25,C,60,D37,Female,Warren,Mrs., Frank Manley (Anna Sophia Atkinson)
+368,1,3,0,0,2626,7.229199886,C,29.7,Not Specified,Female,Moussa,Mrs., (Mantoura Boulos)
+369,1,3,0,0,14313,7.75,Q,29.7,Not Specified,Female,Jermyn,Miss., Annie
+370,1,1,0,0,PC 17477,69.30000305,C,24,B35,Female,Aubart,Mme., Leontine Pauline
+371,1,1,1,0,11765,55.44169998,C,25,E50,Male,Harder,Mr., George Achilles
+372,0,3,1,0,3101267,6.495800018,S,18,Not Specified,Male,Wiklund,Mr., Jakob Alfred
+373,0,3,0,0,323951,8.050000191,S,19,Not Specified,Male,Beavan,Mr., William Thomas
+374,0,1,0,0,PC 17760,135.6333008,C,22,Not Specified,Male,Ringhini,Mr., Sante
+375,0,3,3,1,349909,21.07500076,S,3,Not Specified,Female,Palsson,Miss., Stina Viola
+376,1,1,1,0,PC 17604,82.17079926,C,29.7,Not Specified,Female,Meyer,Mrs., Edgar Joseph (Leila Saks)
+377,1,3,0,0,C 7077,7.25,S,22,Not Specified,Female,Landergren,Miss., Aurora Adelia
+378,0,1,0,2,113503,211.5,C,27,C82,Male,Widener,Mr., Harry Elkins
+379,0,3,0,0,2648,4.012499809,C,20,Not Specified,Male,Betros,Mr., Tannous
+380,0,3,0,0,347069,7.775000095,S,19,Not Specified,Male,Gustafsson,Mr., Karl Gideon
+381,1,1,0,0,PC 17757,227.5249939,C,42,Not Specified,Female,Bidois,Miss., Rosalie
+382,1,3,0,2,2653,15.74170017,C,1,Not Specified,Female,Nakid,Miss.," Maria (""Mary"")"
+383,0,3,0,0,STON/O 2. 3101293,7.925000191,S,32,Not Specified,Male,Tikkanen,Mr., Juho
+384,1,1,1,0,113789,52,S,35,Not Specified,Female,Holverson,Mrs., Alexander Oskar (Mary Aline Towner)
+385,0,3,0,0,349227,7.895800114,S,29.7,Not Specified,Male,Plotcharsky,Mr., Vasil
+386,0,2,0,0,S.O.C. 14879,73.5,S,18,Not Specified,Male,Davies,Mr., Charles Henry
+387,0,3,5,2,CA 2144,46.90000153,S,1,Not Specified,Male,Goodwin,Master., Sidney Leonard
+388,1,2,0,0,27849,13,S,36,Not Specified,Female,Buss,Miss., Kate
+389,0,3,0,0,367655,7.729199886,Q,29.7,Not Specified,Male,Sadlier,Mr., Matthew
+390,1,2,0,0,SC 1748,12,C,17,Not Specified,Female,Lehmann,Miss., Bertha
+391,1,1,1,2,113760,120,S,36,B96 B98,Male,Carter,Mr., William Ernest
+392,1,3,0,0,350034,7.795800209,S,21,Not Specified,Male,Jansson,Mr., Carl Olof
+393,0,3,2,0,3101277,7.925000191,S,28,Not Specified,Male,Gustafsson,Mr., Johan Birger
+394,1,1,1,0,35273,113.2750015,C,23,D36,Female,Newell,Miss., Marjorie
+395,1,3,0,2,PP 9549,16.70000076,S,24,G6,Female,Sandstrom,Mrs., Hjalmar (Agnes Charlotta Bengtsson)
+396,0,3,0,0,350052,7.795800209,S,22,Not Specified,Male,Johansson,Mr., Erik
+397,0,3,0,0,350407,7.854199886,S,31,Not Specified,Female,Olsson,Miss., Elina
+398,0,2,0,0,28403,26,S,46,Not Specified,Male,McKane,Mr., Peter David
+399,0,2,0,0,244278,10.5,S,23,Not Specified,Male,Pain,Dr., Alfred
+400,1,2,0,0,240929,12.64999962,S,28,Not Specified,Female,Trout,Mrs., William H (Jessie L)
+401,1,3,0,0,STON/O 2. 3101289,7.925000191,S,39,Not Specified,Male,Niskanen,Mr., Juha
+402,0,3,0,0,341826,8.050000191,S,26,Not Specified,Male,Adams,Mr., John
+403,0,3,1,0,4137,9.824999809,S,21,Not Specified,Female,Jussila,Miss., Mari Aina
+404,0,3,1,0,STON/O2. 3101279,15.85000038,S,28,Not Specified,Male,Hakkarainen,Mr., Pekka Pietari
+405,0,3,0,0,315096,8.662500381,S,20,Not Specified,Female,Oreskovic,Miss., Marija
+406,0,2,1,0,28664,21,S,34,Not Specified,Male,Gale,Mr., Shadrach
+407,0,3,0,0,347064,7.75,S,51,Not Specified,Male,Widegren,Mr., Carl/Charles Peter
+408,1,2,1,1,29106,18.75,S,3,Not Specified,Male,Richards,Master., William Rowe
+409,0,3,0,0,312992,7.775000095,S,21,Not Specified,Male,Birkeland,Mr., Hans Martin Monsen
+410,0,3,3,1,4133,25.4666996,S,29.7,Not Specified,Female,Lefebre,Miss., Ida
+411,0,3,0,0,349222,7.895800114,S,29.7,Not Specified,Male,Sdycoff,Mr., Todor
+412,0,3,0,0,394140,6.858300209,Q,29.7,Not Specified,Male,Hart,Mr., Henry
+413,1,1,1,0,19928,90,Q,33,C78,Female,Minahan,Miss., Daisy E
+414,0,2,0,0,239853,0,S,29.7,Not Specified,Male,Cunningham,Mr., Alfred Fleming
+415,1,3,0,0,STON/O 2. 3101269,7.925000191,S,44,Not Specified,Male,Sundman,Mr., Johan Julian
+416,0,3,0,0,343095,8.050000191,S,29.7,Not Specified,Female,Meek,Mrs., Thomas (Annie Louise Rowley)
+417,1,2,1,1,28220,32.5,S,34,Not Specified,Female,Drew,Mrs., James Vivian (Lulu Thorne Christian)
+418,1,2,0,2,250652,13,S,18,Not Specified,Female,Silven,Miss., Lyyli Karoliina
+419,0,2,0,0,28228,13,S,30,Not Specified,Male,Matthews,Mr., William John
+420,0,3,0,2,345773,24.14999962,S,10,Not Specified,Female,Van Impe,Miss., Catharina
+421,0,3,0,0,349254,7.895800114,C,29.7,Not Specified,Male,Gheorgheff,Mr., Stanio
+422,0,3,0,0,A/5. 13032,7.733300209,Q,21,Not Specified,Male,Charters,Mr., David
+423,0,3,0,0,315082,7.875,S,29,Not Specified,Male,Zimmerman,Mr., Leo
+424,0,3,1,1,347080,14.39999962,S,28,Not Specified,Female,Danbom,Mrs., Ernst Gilbert (Anna Sigrid Maria Brogren)
+425,0,3,1,1,370129,20.21249962,S,18,Not Specified,Male,Rosblom,Mr., Viktor Richard
+426,0,3,0,0,A/4. 34244,7.25,S,29.7,Not Specified,Male,Wiseman,Mr., Phillippe
+427,1,2,1,0,2003,26,S,28,Not Specified,Female,Clarke,Mrs., Charles V (Ada Maria Winfield)
+428,1,2,0,0,250655,26,S,19,Not Specified,Female,Phillips,Miss.," Kate Florence (""Mrs Kate Louise Phillips Marshall"")"
+429,0,3,0,0,364851,7.75,Q,29.7,Not Specified,Male,Flynn,Mr., James
+430,1,3,0,0,SOTON/O.Q. 392078,8.050000191,S,32,E10,Male,Pickard,Mr., Berk (Berk Trembisky)
+431,1,1,0,0,110564,26.54999924,S,28,C52,Male,Bjornstrom-Steffansson,Mr., Mauritz Hakan
+432,1,3,1,0,376564,16.10000038,S,29.7,Not Specified,Female,Thorneycroft,Mrs., Percival (Florence Kate White)
+433,1,2,1,0,SC/AH 3085,26,S,42,Not Specified,Female,Louch,Mrs., Charles Alexander (Alice Adelaide Slow)
+434,0,3,0,0,STON/O 2. 3101274,7.125,S,17,Not Specified,Male,Kallio,Mr., Nikolai Erland
+435,0,1,1,0,13507,55.90000153,S,50,E44,Male,Silvey,Mr., William Baird
+436,1,1,1,2,113760,120,S,14,B96 B98,Female,Carter,Miss., Lucile Polk
+437,0,3,2,2,W./C. 6608,34.375,S,21,Not Specified,Female,Ford,Miss.," Doolina Margaret ""Daisy"""
+438,1,2,2,3,29106,18.75,S,24,Not Specified,Female,Richards,Mrs., Sidney (Emily Hocking)
+439,0,1,1,4,19950,263,S,64,C23 C25 C27,Male,Fortune,Mr., Mark
+440,0,2,0,0,C.A. 18723,10.5,S,31,Not Specified,Male,Kvillner,Mr., Johan Henrik Johannesson
+441,1,2,1,1,F.C.C. 13529,26.25,S,45,Not Specified,Female,Hart,Mrs., Benjamin (Esther Ada Bloomfield)
+442,0,3,0,0,345769,9.5,S,20,Not Specified,Male,Hampe,Mr., Leon
+443,0,3,1,0,347076,7.775000095,S,25,Not Specified,Male,Petterson,Mr., Johan Emil
+444,1,2,0,0,230434,13,S,28,Not Specified,Female,Reynaldo,, Encarnacion
+445,1,3,0,0,65306,8.112500191,S,29.7,Not Specified,Male,Johannesen-Bratthammer,Mr., Bernt
+446,1,1,0,2,33638,81.85829926,S,4,A34,Male,Dodge,Master., Washington
+447,1,2,0,1,250644,19.5,S,13,Not Specified,Female,Mellinger,Miss., Madeleine Violet
+448,1,1,0,0,113794,26.54999924,S,34,Not Specified,Male,Seward,Mr., Frederic Kimber
+449,1,3,2,1,2666,19.25830078,C,5,Not Specified,Female,Baclini,Miss., Marie Catherine
+450,1,1,0,0,113786,30.5,S,52,C104,Male,Peuchen,Major, Arthur Godfrey
+451,0,2,1,2,C.A. 34651,27.75,S,36,Not Specified,Male,West,Mr., Edwy Arthur
+452,0,3,1,0,65303,19.9666996,S,29.7,Not Specified,Male,Hagland,Mr., Ingvald Olai Olsen
+453,0,1,0,0,113051,27.75,C,30,C111,Male,Foreman,Mr., Benjamin Laventall
+454,1,1,1,0,17453,89.10420227,C,49,C92,Male,Goldenberg,Mr., Samuel L
+455,0,3,0,0,A/5 2817,8.050000191,S,29.7,Not Specified,Male,Peduzzi,Mr., Joseph
+456,1,3,0,0,349240,7.895800114,C,29,Not Specified,Male,Jalsevac,Mr., Ivan
+457,0,1,0,0,13509,26.54999924,S,65,E38,Male,Millet,Mr., Francis Davis
+458,1,1,1,0,17464,51.86249924,S,29.7,D21,Female,Kenyon,Mrs., Frederick R (Marion)
+459,1,2,0,0,F.C.C. 13531,10.5,S,50,Not Specified,Female,Toomey,Miss., Ellen
+460,0,3,0,0,371060,7.75,Q,29.7,Not Specified,Male,O'Connor,Mr., Maurice
+461,1,1,0,0,19952,26.54999924,S,48,E12,Male,Anderson,Mr., Harry
+462,0,3,0,0,364506,8.050000191,S,34,Not Specified,Male,Morley,Mr., William
+463,0,1,0,0,111320,38.5,S,47,E63,Male,Gee,Mr., Arthur H
+464,0,2,0,0,234360,13,S,48,Not Specified,Male,Milling,Mr., Jacob Christian
+465,0,3,0,0,A/S 2816,8.050000191,S,29.7,Not Specified,Male,Maisner,Mr., Simon
+466,0,3,0,0,SOTON/O.Q. 3101306,7.050000191,S,38,Not Specified,Male,Goncalves,Mr., Manuel Estanslas
+467,0,2,0,0,239853,0,S,29.7,Not Specified,Male,Campbell,Mr., William
+468,0,1,0,0,113792,26.54999924,S,56,Not Specified,Male,Smart,Mr., John Montgomery
+469,0,3,0,0,36209,7.724999905,Q,29.7,Not Specified,Male,Scanlan,Mr., James
+470,1,3,2,1,2666,19.25830078,C,0.75,Not Specified,Female,Baclini,Miss., Helene Barbara
+471,0,3,0,0,323592,7.25,S,29.7,Not Specified,Male,Keefe,Mr., Arthur
+472,0,3,0,0,315089,8.662500381,S,38,Not Specified,Male,Cacic,Mr., Luka
+473,1,2,1,2,C.A. 34651,27.75,S,33,Not Specified,Female,West,Mrs., Edwy Arthur (Ada Mary Worth)
+474,1,2,0,0,SC/AH Basle 541,13.79170036,C,23,D,Female,Jerwan,Mrs., Amin S (Marie Marthe Thuillard)
+475,0,3,0,0,7553,9.837499619,S,22,Not Specified,Female,Strandberg,Miss., Ida Sofia
+476,0,1,0,0,110465,52,S,29.7,A14,Male,Clifford,Mr., George Quincy
+477,0,2,1,0,31027,21,S,34,Not Specified,Male,Renouf,Mr., Peter Henry
+478,0,3,1,0,3460,7.045800209,S,29,Not Specified,Male,Braund,Mr., Lewis Richard
+479,0,3,0,0,350060,7.520800114,S,22,Not Specified,Male,Karlsson,Mr., Nils August
+480,1,3,0,1,3101298,12.28750038,S,2,Not Specified,Female,Hirvonen,Miss., Hildur E
+481,0,3,5,2,CA 2144,46.90000153,S,9,Not Specified,Male,Goodwin,Master., Harold Victor
+482,0,2,0,0,239854,0,S,29.7,Not Specified,Male,Frost,Mr.," Anthony Wood ""Archie"""
+483,0,3,0,0,A/5 3594,8.050000191,S,50,Not Specified,Male,Rouse,Mr., Richard Henry
+484,1,3,0,0,4134,9.587499619,S,63,Not Specified,Female,Turkula,Mrs., (Hedwig)
+485,1,1,1,0,11967,91.07920074,C,25,B49,Male,Bishop,Mr., Dickinson H
+486,0,3,3,1,4133,25.4666996,S,29.7,Not Specified,Female,Lefebre,Miss., Jeannie
+487,1,1,1,0,19943,90,S,35,C93,Female,Hoyt,Mrs., Frederick Maxfield (Jane Anne Forby)
+488,0,1,0,0,11771,29.70000076,C,58,B37,Male,Kent,Mr., Edward Austin
+489,0,3,0,0,A.5. 18509,8.050000191,S,30,Not Specified,Male,Somerton,Mr., Francis William
+490,1,3,1,1,C.A. 37671,15.89999962,S,9,Not Specified,Male,Coutts,Master.," Eden Leslie ""Neville"""
+491,0,3,1,0,65304,19.9666996,S,29.7,Not Specified,Male,Hagland,Mr., Konrad Mathias Reiersen
+492,0,3,0,0,SOTON/OQ 3101317,7.25,S,21,Not Specified,Male,Windelov,Mr., Einar
+493,0,1,0,0,113787,30.5,S,55,C30,Male,Molson,Mr., Harry Markland
+494,0,1,0,0,PC 17609,49.50419998,C,71,Not Specified,Male,Artagaveytia,Mr., Ramon
+495,0,3,0,0,A/4 45380,8.050000191,S,21,Not Specified,Male,Stanley,Mr., Edward Roland
+496,0,3,0,0,2627,14.45829964,C,29.7,Not Specified,Male,Yousseff,Mr., Gerious
+497,1,1,1,0,36947,78.26670074,C,54,D20,Female,Eustis,Miss., Elizabeth Mussey
+498,0,3,0,0,C.A. 6212,15.10000038,S,29.7,Not Specified,Male,Shellard,Mr., Frederick William
+499,0,1,1,2,113781,151.5500031,S,25,C22 C26,Female,Allison,Mrs., Hudson J C (Bessie Waldo Daniels)
+500,0,3,0,0,350035,7.795800209,S,24,Not Specified,Male,Svensson,Mr., Olof
+501,0,3,0,0,315086,8.662500381,S,17,Not Specified,Male,Calic,Mr., Petar
+502,0,3,0,0,364846,7.75,Q,21,Not Specified,Female,Canavan,Miss., Mary
+503,0,3,0,0,330909,7.629199982,Q,29.7,Not Specified,Female,O'Sullivan,Miss., Bridget Mary
+504,0,3,0,0,4135,9.587499619,S,37,Not Specified,Female,Laitinen,Miss., Kristina Sofia
+505,1,1,0,0,110152,86.5,S,16,B79,Female,Maioni,Miss., Roberta
+506,0,1,1,0,PC 17758,108.9000015,C,18,C65,Male,Penasco y Castellana,Mr., Victor de Satode
+507,1,2,0,2,26360,26,S,33,Not Specified,Female,Quick,Mrs., Frederick Charles (Jane Richards)
+508,1,1,0,0,111427,26.54999924,S,29.7,Not Specified,Male,Bradley,Mr.," George (""George Arthur Brayton"")"
+509,0,3,0,0,C 4001,22.52499962,S,28,Not Specified,Male,Olsen,Mr., Henry Margido
+510,1,3,0,0,1601,56.49580002,S,26,Not Specified,Male,Lang,Mr., Fang
+511,1,3,0,0,382651,7.75,Q,29,Not Specified,Male,Daly,Mr., Eugene Patrick
+512,0,3,0,0,SOTON/OQ 3101316,8.050000191,S,29.7,Not Specified,Male,Webber,Mr., James
+513,1,1,0,0,PC 17473,26.28750038,S,36,E25,Male,McGough,Mr., James Robert
+514,1,1,1,0,PC 17603,59.40000153,C,54,Not Specified,Female,Rothschild,Mrs., Martin (Elizabeth L. Barrett)
+515,0,3,0,0,349209,7.495800018,S,24,Not Specified,Male,Coleff,Mr., Satio
+516,0,1,0,0,36967,34.02080154,S,47,D46,Male,Walker,Mr., William Anderson
+517,1,2,0,0,C.A. 34260,10.5,S,34,F33,Female,Lemore,Mrs., (Amelia Milley)
+518,0,3,0,0,371110,24.14999962,Q,29.7,Not Specified,Male,Ryan,Mr., Patrick
+519,1,2,1,0,226875,26,S,36,Not Specified,Female,Angle,Mrs.," William A (Florence ""Mary"" Agnes Hughes)"
+520,0,3,0,0,349242,7.895800114,S,32,Not Specified,Male,Pavlovic,Mr., Stefo
+521,1,1,0,0,12749,93.5,S,30,B73,Female,Perreault,Miss., Anne
+522,0,3,0,0,349252,7.895800114,S,22,Not Specified,Male,Vovk,Mr., Janko
+523,0,3,0,0,2624,7.224999905,C,29.7,Not Specified,Male,Lahoud,Mr., Sarkis
+524,1,1,0,1,111361,57.97919846,C,44,B18,Female,Hippach,Mrs., Louis Albert (Ida Sophia Fischer)
+525,0,3,0,0,2700,7.229199886,C,29.7,Not Specified,Male,Kassem,Mr., Fared
+526,0,3,0,0,367232,7.75,Q,40.5,Not Specified,Male,Farrell,Mr., James
+527,1,2,0,0,W./C. 14258,10.5,S,50,Not Specified,Female,Ridsdale,Miss., Lucy
+528,0,1,0,0,PC 17483,221.7792053,S,29.7,C95,Male,Farthing,Mr., John
+529,0,3,0,0,3101296,7.925000191,S,39,Not Specified,Male,Salonen,Mr., Johan Werner
+530,0,2,2,1,29104,11.5,S,23,Not Specified,Male,Hocking,Mr., Richard George
+531,1,2,1,1,26360,26,S,2,Not Specified,Female,Quick,Miss., Phyllis May
+532,0,3,0,0,2641,7.229199886,C,29.7,Not Specified,Male,Toufik,Mr., Nakli
+533,0,3,1,1,2690,7.229199886,C,17,Not Specified,Male,Elias,Mr., Joseph Jr
+534,1,3,0,2,2668,22.35829926,C,29.7,Not Specified,Female,Peter,Mrs., Catherine (Catherine Rizk)
+535,0,3,0,0,315084,8.662500381,S,30,Not Specified,Female,Cacic,Miss., Marija
+536,1,2,0,2,F.C.C. 13529,26.25,S,7,Not Specified,Female,Hart,Miss., Eva Miriam
+537,0,1,0,0,113050,26.54999924,S,45,B38,Male,Butt,Major, Archibald Willingham
+538,1,1,0,0,PC 17761,106.4250031,C,30,Not Specified,Female,LeRoy,Miss., Bertha
+539,0,3,0,0,364498,14.5,S,29.7,Not Specified,Male,Risien,Mr., Samuel Beard
+540,1,1,0,2,13568,49.5,C,22,B39,Female,Frolicher,Miss., Hedwig Margaritha
+541,1,1,0,2,WE/P 5735,71,S,36,B22,Female,Crosby,Miss., Harriet R
+542,0,3,4,2,347082,31.27499962,S,9,Not Specified,Female,Andersson,Miss., Ingeborg Constanzia
+543,0,3,4,2,347082,31.27499962,S,11,Not Specified,Female,Andersson,Miss., Sigrid Elisabeth
+544,1,2,1,0,2908,26,S,32,Not Specified,Male,Beane,Mr., Edward
+545,0,1,1,0,PC 17761,106.4250031,C,50,C86,Male,Douglas,Mr., Walter Donald
+546,0,1,0,0,693,26,S,64,Not Specified,Male,Nicholson,Mr., Arthur Ernest
+547,1,2,1,0,2908,26,S,19,Not Specified,Female,Beane,Mrs., Edward (Ethel Clarke)
+548,1,2,0,0,SC/PARIS 2146,13.86250019,C,29.7,Not Specified,Male,Padro y Manent,Mr., Julian
+549,0,3,1,1,363291,20.52499962,S,33,Not Specified,Male,Goldsmith,Mr., Frank John
+550,1,2,1,1,C.A. 33112,36.75,S,8,Not Specified,Male,Davies,Master., John Morgan Jr
+551,1,1,0,2,17421,110.8833008,C,17,C70,Male,Thayer,Mr., John Borland Jr
+552,0,2,0,0,244358,26,S,27,Not Specified,Male,Sharp,Mr., Percival James R
+553,0,3,0,0,330979,7.829199791,Q,29.7,Not Specified,Male,O'Brien,Mr., Timothy
+554,1,3,0,0,2620,7.224999905,C,22,Not Specified,Male,Leeni,Mr.," Fahim (""Philip Zenni"")"
+555,1,3,0,0,347085,7.775000095,S,22,Not Specified,Female,Ohman,Miss., Velin
+556,0,1,0,0,113807,26.54999924,S,62,Not Specified,Male,Wright,Mr., George
+557,1,1,1,0,11755,39.59999847,C,48,A16,Female,Duff Gordon,," (Lucille Christiana Sutherland) (""Mrs Morgan"")"
+558,0,1,0,0,PC 17757,227.5249939,C,29.7,Not Specified,Male,Robbins,Mr., Victor
+559,1,1,1,1,110413,79.65000153,S,39,E67,Female,Taussig,Mrs., Emil (Tillie Mandelbaum)
+560,1,3,1,0,345572,17.39999962,S,36,Not Specified,Female,de Messemaeker,Mrs., Guillaume Joseph (Emma)
+561,0,3,0,0,372622,7.75,Q,29.7,Not Specified,Male,Morrow,Mr., Thomas Rowan
+562,0,3,0,0,349251,7.895800114,S,40,Not Specified,Male,Sivic,Mr., Husein
+563,0,2,0,0,218629,13.5,S,28,Not Specified,Male,Norman,Mr., Robert Douglas
+564,0,3,0,0,SOTON/OQ 392082,8.050000191,S,29.7,Not Specified,Male,Simmons,Mr., John
+565,0,3,0,0,SOTON/O.Q. 392087,8.050000191,S,29.7,Not Specified,Female,Meanwell,Miss., (Marion Ogden)
+566,0,3,2,0,A/4 48871,24.14999962,S,24,Not Specified,Male,Davies,Mr., Alfred J
+567,0,3,0,0,349205,7.895800114,S,19,Not Specified,Male,Stoytcheff,Mr., Ilia
+568,0,3,0,4,349909,21.07500076,S,29,Not Specified,Female,Palsson,Mrs., Nils (Alma Cornelia Berglund)
+569,0,3,0,0,2686,7.229199886,C,29.7,Not Specified,Male,Doharr,Mr., Tannous
+570,1,3,0,0,350417,7.854199886,S,32,Not Specified,Male,Jonsson,Mr., Carl
+571,1,2,0,0,S.W./PP 752,10.5,S,62,Not Specified,Male,Harris,Mr., George
+572,1,1,2,0,11769,51.47919846,S,53,C101,Female,Appleton,Mrs., Edward Dale (Charlotte Lamson)
+573,1,1,0,0,PC 17474,26.38750076,S,36,E25,Male,Flynn,Mr.," John Irwin (""Irving"")"
+574,1,3,0,0,14312,7.75,Q,29.7,Not Specified,Female,Kelly,Miss., Mary
+575,0,3,0,0,A/4. 20589,8.050000191,S,16,Not Specified,Male,Rush,Mr., Alfred George John
+576,0,3,0,0,358585,14.5,S,19,Not Specified,Male,Patchett,Mr., George
+577,1,2,0,0,243880,13,S,34,Not Specified,Female,Garside,Miss., Ethel
+578,1,1,1,0,13507,55.90000153,S,39,E44,Female,Silvey,Mrs., William Baird (Alice Munger)
+579,0,3,1,0,2689,14.45829964,C,29.7,Not Specified,Female,Caram,Mrs., Joseph (Maria Elias)
+580,1,3,0,0,STON/O 2. 3101286,7.925000191,S,32,Not Specified,Male,Jussila,Mr., Eiriik
+581,1,2,1,1,237789,30,S,25,Not Specified,Female,Christy,Miss., Julie Rachel
+582,1,1,1,1,17421,110.8833008,C,39,C68,Female,Thayer,Mrs., John Borland (Marian Longstreth Morris)
+583,0,2,0,0,28403,26,S,54,Not Specified,Male,Downton,Mr., William James
+584,0,1,0,0,13049,40.125,C,36,A10,Male,Ross,Mr., John Hugo
+585,0,3,0,0,3411,8.712499619,C,29.7,Not Specified,Male,Paulner,Mr., Uscher
+586,1,1,0,2,110413,79.65000153,S,18,E68,Female,Taussig,Miss., Ruth
+587,0,2,0,0,237565,15,S,47,Not Specified,Male,Jarvis,Mr., John Denzil
+588,1,1,1,1,13567,79.19999695,C,60,B41,Male,Frolicher-Stehli,Mr., Maxmillian
+589,0,3,0,0,14973,8.050000191,S,22,Not Specified,Male,Gilinski,Mr., Eliezer
+590,0,3,0,0,A./5. 3235,8.050000191,S,29.7,Not Specified,Male,Murdlin,Mr., Joseph
+591,0,3,0,0,STON/O 2. 3101273,7.125,S,35,Not Specified,Male,Rintamaki,Mr., Matti
+592,1,1,1,0,36947,78.26670074,C,52,D20,Female,Stephenson,Mrs., Walter Bertram (Martha Eustis)
+593,0,3,0,0,A/5 3902,7.25,S,47,Not Specified,Male,Elsbury,Mr., William James
+594,0,3,0,2,364848,7.75,Q,29.7,Not Specified,Female,Bourke,Miss., Mary
+595,0,2,1,0,SC/AH 29037,26,S,37,Not Specified,Male,Chapman,Mr., John Henry
+596,0,3,1,1,345773,24.14999962,S,36,Not Specified,Male,Van Impe,Mr., Jean Baptiste
+597,1,2,0,0,248727,33,S,29.7,Not Specified,Female,Leitch,Miss., Jessie Wills
+598,0,3,0,0,LINE,0,S,49,Not Specified,Male,Johnson,Mr., Alfred
+599,0,3,0,0,2664,7.224999905,C,29.7,Not Specified,Male,Boulos,Mr., Hanna
+600,1,1,1,0,PC 17485,56.92919922,C,49,A20,Male,Duff Gordon,," Cosmo Edmund (""Mr Morgan"")"
+601,1,2,2,1,243847,27,S,24,Not Specified,Female,Jacobsohn,Mrs., Sidney Samuel (Amy Frances Christy)
+602,0,3,0,0,349214,7.895800114,S,29.7,Not Specified,Male,Slabenoff,Mr., Petco
+603,0,1,0,0,113796,42.40000153,S,29.7,Not Specified,Male,Harrington,Mr., Charles H
+604,0,3,0,0,364511,8.050000191,S,44,Not Specified,Male,Torber,Mr., Ernst William
+605,1,1,0,0,111426,26.54999924,C,35,Not Specified,Male,Homer,Mr.," Harry (""Mr E Haven"")"
+606,0,3,1,0,349910,15.55000019,S,36,Not Specified,Male,Lindell,Mr., Edvard Bengtsson
+607,0,3,0,0,349246,7.895800114,S,30,Not Specified,Male,Karaic,Mr., Milan
+608,1,1,0,0,113804,30.5,S,27,Not Specified,Male,Daniel,Mr., Robert Williams
+609,1,2,1,2,SC/Paris 2123,41.57920074,C,22,Not Specified,Female,Laroche,Mrs., Joseph (Juliette Marie Louise Lafargue)
+610,1,1,0,0,PC 17582,153.4624939,S,40,C125,Female,Shutes,Miss., Elizabeth W
+611,0,3,1,5,347082,31.27499962,S,39,Not Specified,Female,Andersson,Mrs., Anders Johan (Alfrida Konstantia Brogren)
+612,0,3,0,0,SOTON/O.Q. 3101305,7.050000191,S,29.7,Not Specified,Male,Jardin,Mr., Jose Neto
+613,1,3,1,0,367230,15.5,Q,29.7,Not Specified,Female,Murphy,Miss., Margaret Jane
+614,0,3,0,0,370377,7.75,Q,29.7,Not Specified,Male,Horgan,Mr., John
+615,0,3,0,0,364512,8.050000191,S,35,Not Specified,Male,Brocklebank,Mr., William Alfred
+616,1,2,1,2,220845,65,S,24,Not Specified,Female,Herman,Miss., Alice
+617,0,3,1,1,347080,14.39999962,S,34,Not Specified,Male,Danbom,Mr., Ernst Gilbert
+618,0,3,1,0,A/5. 3336,16.10000038,S,26,Not Specified,Female,Lobb,Mrs., William Arthur (Cordelia K Stanlick)
+619,1,2,2,1,230136,39,S,4,F4,Female,Becker,Miss., Marion Louise
+620,0,2,0,0,31028,10.5,S,26,Not Specified,Male,Gavey,Mr., Lawrence
+621,0,3,1,0,2659,14.45419979,C,27,Not Specified,Male,Yasbeck,Mr., Antoni
+622,1,1,1,0,11753,52.55419922,S,42,D19,Male,Kimball,Mr., Edwin Nelson Jr
+623,1,3,1,1,2653,15.74170017,C,20,Not Specified,Male,Nakid,Mr., Sahid
+624,0,3,0,0,350029,7.854199886,S,21,Not Specified,Male,Hansen,Mr., Henry Damsgaard
+625,0,3,0,0,54636,16.10000038,S,21,Not Specified,Male,Bowen,Mr.," David John ""Dai"""
+626,0,1,0,0,36963,32.32080078,S,61,D50,Male,Sutton,Mr., Frederick
+627,0,2,0,0,219533,12.35000038,Q,57,Not Specified,Male,Kirkland,Rev., Charles Leonard
+628,1,1,0,0,13502,77.95829773,S,21,D9,Female,Longley,Miss., Gretchen Fiske
+629,0,3,0,0,349224,7.895800114,S,26,Not Specified,Male,Bostandyeff,Mr., Guentcho
+630,0,3,0,0,334912,7.733300209,Q,29.7,Not Specified,Male,O'Connell,Mr., Patrick D
+631,1,1,0,0,27042,30,S,80,A23,Male,Barkworth,Mr., Algernon Henry Wilson
+632,0,3,0,0,347743,7.054200172,S,51,Not Specified,Male,Lundahl,Mr., Johan Svensson
+633,1,1,0,0,13214,30.5,C,32,B50,Male,Stahelin-Maeglin,Dr., Max
+634,0,1,0,0,112052,0,S,29.7,Not Specified,Male,Parr,Mr., William Henry Marsh
+635,0,3,3,2,347088,27.89999962,S,9,Not Specified,Female,Skoog,Miss., Mabel
+636,1,2,0,0,237668,13,S,28,Not Specified,Female,Davis,Miss., Mary
+637,0,3,0,0,STON/O 2. 3101292,7.925000191,S,32,Not Specified,Male,Leinonen,Mr., Antti Gustaf
+638,0,2,1,1,C.A. 31921,26.25,S,31,Not Specified,Male,Collyer,Mr., Harvey
+639,0,3,0,5,3101295,39.6875,S,41,Not Specified,Female,Panula,Mrs., Juha (Maria Emilia Ojala)
+640,0,3,1,0,376564,16.10000038,S,29.7,Not Specified,Male,Thorneycroft,Mr., Percival
+641,0,3,0,0,350050,7.854199886,S,20,Not Specified,Male,Jensen,Mr., Hans Peder
+642,1,1,0,0,PC 17477,69.30000305,C,24,B35,Female,Sagesser,Mlle., Emma
+643,0,3,3,2,347088,27.89999962,S,2,Not Specified,Female,Skoog,Miss., Margit Elizabeth
+644,1,3,0,0,1601,56.49580002,S,29.7,Not Specified,Male,Foo,Mr., Choong
+645,1,3,2,1,2666,19.25830078,C,0.75,Not Specified,Female,Baclini,Miss., Eugenie
+646,1,1,1,0,PC 17572,76.72920227,C,48,D33,Male,Harper,Mr., Henry Sleeper
+647,0,3,0,0,349231,7.895800114,S,19,Not Specified,Male,Cor,Mr., Liudevit
+648,1,1,0,0,13213,35.5,C,56,A26,Male,Simonius-Blumer,Col., Oberst Alfons
+649,0,3,0,0,S.O./P.P. 751,7.550000191,S,29.7,Not Specified,Male,Willey,Mr., Edward
+650,1,3,0,0,CA. 2314,7.550000191,S,23,Not Specified,Female,Stanley,Miss., Amy Zillah Elsie
+651,0,3,0,0,349221,7.895800114,S,29.7,Not Specified,Male,Mitkoff,Mr., Mito
+652,1,2,0,1,231919,23,S,18,Not Specified,Female,Doling,Miss., Elsie
+653,0,3,0,0,8475,8.433300018,S,21,Not Specified,Male,Kalvik,Mr., Johannes Halvorsen
+654,1,3,0,0,330919,7.829199791,Q,29.7,Not Specified,Female,O'Leary,Miss.," Hanora ""Norah"""
+655,0,3,0,0,365226,6.75,Q,18,Not Specified,Female,Hegarty,Miss.," Hanora ""Nora"""
+656,0,2,2,0,S.O.C. 14879,73.5,S,24,Not Specified,Male,Hickman,Mr., Leonard Mark
+657,0,3,0,0,349223,7.895800114,S,29.7,Not Specified,Male,Radeff,Mr., Alexander
+658,0,3,1,1,364849,15.5,Q,32,Not Specified,Female,Bourke,Mrs., John (Catherine)
+659,0,2,0,0,29751,13,S,23,Not Specified,Male,Eitemiller,Mr., George Floyd
+660,0,1,0,2,35273,113.2750015,C,58,D48,Male,Newell,Mr., Arthur Webster
+661,1,1,2,0,PC 17611,133.6499939,S,50,Not Specified,Male,Frauenthal,Dr., Henry William
+662,0,3,0,0,2623,7.224999905,C,40,Not Specified,Male,Badt,Mr., Mohamed
+663,0,1,0,0,5727,25.58749962,S,47,E58,Male,Colley,Mr., Edward Pomeroy
+664,0,3,0,0,349210,7.495800018,S,36,Not Specified,Male,Coleff,Mr., Peju
+665,1,3,1,0,STON/O 2. 3101285,7.925000191,S,20,Not Specified,Male,Lindqvist,Mr., Eino William
+666,0,2,2,0,S.O.C. 14879,73.5,S,32,Not Specified,Male,Hickman,Mr., Lewis
+667,0,2,0,0,234686,13,S,25,Not Specified,Male,Butler,Mr., Reginald Fenton
+668,0,3,0,0,312993,7.775000095,S,29.7,Not Specified,Male,Rommetvedt,Mr., Knud Paust
+669,0,3,0,0,A/5 3536,8.050000191,S,43,Not Specified,Male,Cook,Mr., Jacob
+670,1,1,1,0,19996,52,S,29.7,C126,Female,Taylor,Mrs., Elmer Zebley (Juliet Cummins Wright)
+671,1,2,1,1,29750,39,S,40,Not Specified,Female,Brown,Mrs., Thomas William Solomon (Elizabeth Catherine Ford)
+672,0,1,1,0,F.C. 12750,52,S,31,B71,Male,Davidson,Mr., Thornton
+673,0,2,0,0,C.A. 24580,10.5,S,70,Not Specified,Male,Mitchell,Mr., Henry Michael
+674,1,2,0,0,244270,13,S,31,Not Specified,Male,Wilhelms,Mr., Charles
+675,0,2,0,0,239856,0,S,29.7,Not Specified,Male,Watson,Mr., Ennis Hastings
+676,0,3,0,0,349912,7.775000095,S,18,Not Specified,Male,Edvardsson,Mr., Gustaf Hjalmar
+677,0,3,0,0,342826,8.050000191,S,24.5,Not Specified,Male,Sawyer,Mr., Frederick Charles
+678,1,3,0,0,4138,9.8416996,S,18,Not Specified,Female,Turja,Miss., Anna Sofia
+679,0,3,1,6,CA 2144,46.90000153,S,43,Not Specified,Female,Goodwin,Mrs., Frederick (Augusta Tyler)
+680,1,1,0,1,PC 17755,512.3292236,C,36,B51 B53 B55,Male,Cardeza,Mr., Thomas Drake Martinez
+681,0,3,0,0,330935,8.137499809,Q,29.7,Not Specified,Female,Peters,Miss., Katie
+682,1,1,0,0,PC 17572,76.72920227,C,27,D49,Male,Hassab,Mr., Hammad
+683,0,3,0,0,6563,9.225000381,S,20,Not Specified,Male,Olsvigen,Mr., Thor Anderson
+684,0,3,5,2,CA 2144,46.90000153,S,14,Not Specified,Male,Goodwin,Mr., Charles Edward
+685,0,2,1,1,29750,39,S,60,Not Specified,Male,Brown,Mr., Thomas William Solomon
+686,0,2,1,2,SC/Paris 2123,41.57920074,C,25,Not Specified,Male,Laroche,Mr., Joseph Philippe Lemercier
+687,0,3,4,1,3101295,39.6875,S,14,Not Specified,Male,Panula,Mr., Jaako Arnold
+688,0,3,0,0,349228,10.17080021,S,19,Not Specified,Male,Dakic,Mr., Branko
+689,0,3,0,0,350036,7.795800209,S,18,Not Specified,Male,Fischer,Mr., Eberhard Thelander
+690,1,1,0,1,24160,211.3374939,S,15,B5,Female,Madill,Miss., Georgette Alexandra
+691,1,1,1,0,17474,57,S,31,B20,Male,Dick,Mr., Albert Adrian
+692,1,3,0,1,349256,13.41670036,C,4,Not Specified,Female,Karun,Miss., Manca
+693,1,3,0,0,1601,56.49580002,S,29.7,Not Specified,Male,Lam,Mr., Ali
+694,0,3,0,0,2672,7.224999905,C,25,Not Specified,Male,Saad,Mr., Khalil
+695,0,1,0,0,113800,26.54999924,S,60,Not Specified,Male,Weir,Col., John
+696,0,2,0,0,248731,13.5,S,52,Not Specified,Male,Chapman,Mr., Charles Henry
+697,0,3,0,0,363592,8.050000191,S,44,Not Specified,Male,Kelly,Mr., James
+698,1,3,0,0,35852,7.733300209,Q,29.7,Not Specified,Female,Mullens,Miss.," Katherine ""Katie"""
+699,0,1,1,1,17421,110.8833008,C,49,C68,Male,Thayer,Mr., John Borland
+700,0,3,0,0,348121,7.650000095,S,42,F G63,Male,Humblen,Mr., Adolf Mathias Nicolai Olsen
+701,1,1,1,0,PC 17757,227.5249939,C,18,C62 C64,Female,Astor,Mrs., John Jacob (Madeleine Talmadge Force)
+702,1,1,0,0,PC 17475,26.28750038,S,35,E24,Male,Silverthorne,Mr., Spencer Victor
+703,0,3,0,1,2691,14.45419979,C,18,Not Specified,Female,Barbara,Miss., Saiide
+704,0,3,0,0,36864,7.741700172,Q,25,Not Specified,Male,Gallagher,Mr., Martin
+705,0,3,1,0,350025,7.854199886,S,26,Not Specified,Male,Hansen,Mr., Henrik Juul
+706,0,2,0,0,250655,26,S,39,Not Specified,Male,Morley,Mr.," Henry Samuel (""Mr Henry Marshall"")"
+707,1,2,0,0,223596,13.5,S,45,Not Specified,Female,Kelly,Mrs.," Florence ""Fannie"""
+708,1,1,0,0,PC 17476,26.28750038,S,42,E24,Male,Calderhead,Mr., Edward Pennington
+709,1,1,0,0,113781,151.5500031,S,22,Not Specified,Female,Cleaver,Miss., Alice
+710,1,3,1,1,2661,15.24580002,C,29.7,Not Specified,Male,Moubarek,Master.," Halim Gonios (""William George"")"
+711,1,1,0,0,PC 17482,49.50419998,C,24,C90,Female,Mayne,Mlle.," Berthe Antonine (""Mrs de Villiers"")"
+712,0,1,0,0,113028,26.54999924,S,29.7,C124,Male,Klaber,Mr., Herman
+713,1,1,1,0,19996,52,S,48,C126,Male,Taylor,Mr., Elmer Zebley
+714,0,3,0,0,7545,9.483300209,S,29,Not Specified,Male,Larsson,Mr., August Viktor
+715,0,2,0,0,250647,13,S,52,Not Specified,Male,Greenberg,Mr., Samuel
+716,0,3,0,0,348124,7.650000095,S,19,F G73,Male,Soholt,Mr., Peter Andreas Lauritz Andersen
+717,1,1,0,0,PC 17757,227.5249939,C,38,C45,Female,Endres,Miss., Caroline Louise
+718,1,2,0,0,34218,10.5,S,27,E101,Female,Troutt,Miss.," Edwina Celia ""Winnie"""
+719,0,3,0,0,36568,15.5,Q,29.7,Not Specified,Male,McEvoy,Mr., Michael
+720,0,3,0,0,347062,7.775000095,S,33,Not Specified,Male,Johnson,Mr., Malkolm Joackim
+721,1,2,0,1,248727,33,S,6,Not Specified,Female,Harper,Miss.," Annie Jessie ""Nina"""
+722,0,3,1,0,350048,7.054200172,S,17,Not Specified,Male,Jensen,Mr., Svend Lauritz
+723,0,2,0,0,12233,13,S,34,Not Specified,Male,Gillespie,Mr., William Henry
+724,0,2,0,0,250643,13,S,50,Not Specified,Male,Hodges,Mr., Henry Price
+725,1,1,1,0,113806,53.09999847,S,27,E8,Male,Chambers,Mr., Norman Campbell
+726,0,3,0,0,315094,8.662500381,S,20,Not Specified,Male,Oreskovic,Mr., Luka
+727,1,2,3,0,31027,21,S,30,Not Specified,Female,Renouf,Mrs., Peter Henry (Lillian Jefferys)
+728,1,3,0,0,36866,7.737500191,Q,29.7,Not Specified,Female,Mannion,Miss., Margareth
+729,0,2,1,0,236853,26,S,25,Not Specified,Male,Bryhl,Mr., Kurt Arnold Gottfrid
+730,0,3,1,0,STON/O2. 3101271,7.925000191,S,25,Not Specified,Female,Ilmakangas,Miss., Pieta Sofia
+731,1,1,0,0,24160,211.3374939,S,29,B5,Female,Allen,Miss., Elisabeth Walton
+732,0,3,0,0,2699,18.78750038,C,11,Not Specified,Male,Hassan,Mr., Houssein G N
+733,0,2,0,0,239855,0,S,29.7,Not Specified,Male,Knight,Mr., Robert J
+734,0,2,0,0,28425,13,S,23,Not Specified,Male,Berriman,Mr., William John
+735,0,2,0,0,233639,13,S,23,Not Specified,Male,Troupiansky,Mr., Moses Aaron
+736,0,3,0,0,54636,16.10000038,S,28.5,Not Specified,Male,Williams,Mr., Leslie
+737,0,3,1,3,W./C. 6608,34.375,S,48,Not Specified,Female,Ford,Mrs., Edward (Margaret Ann Watson)
+738,1,1,0,0,PC 17755,512.3292236,C,35,B101,Male,Lesurer,Mr., Gustave J
+739,0,3,0,0,349201,7.895800114,S,29.7,Not Specified,Male,Ivanoff,Mr., Kanio
+740,0,3,0,0,349218,7.895800114,S,29.7,Not Specified,Male,Nankoff,Mr., Minko
+741,1,1,0,0,16988,30,S,29.7,D45,Male,Hawksford,Mr., Walter James
+742,0,1,1,0,19877,78.84999847,S,36,C46,Male,Cavendish,Mr., Tyrell William
+743,1,1,2,2,PC 17608,262.375,C,21,B57 B59 B63 B66,Female,Ryerson,Miss.," Susan Parker ""Suzette"""
+744,0,3,1,0,376566,16.10000038,S,24,Not Specified,Male,McNamee,Mr., Neal
+745,1,3,0,0,STON/O 2. 3101288,7.925000191,S,31,Not Specified,Male,Stranden,Mr., Juho
+746,0,1,1,1,WE/P 5735,71,S,70,B22,Male,Crosby,, Edward Gifford
+747,0,3,1,1,C.A. 2673,20.25,S,16,Not Specified,Male,Abbott,Mr., Rossmore Edward
+748,1,2,0,0,250648,13,S,30,Not Specified,Female,Sinkkonen,Miss., Anna
+749,0,1,1,0,113773,53.09999847,S,19,D30,Male,Marvin,Mr., Daniel Warner
+750,0,3,0,0,335097,7.75,Q,31,Not Specified,Male,Connaghton,Mr., Michael
+751,1,2,1,1,29103,23,S,4,Not Specified,Female,Wells,Miss., Joan
+752,1,3,0,1,392096,12.47500038,S,6,E121,Male,Moor,Master., Meier
+753,0,3,0,0,345780,9.5,S,33,Not Specified,Male,Vande Velde,Mr., Johannes Joseph
+754,0,3,0,0,349204,7.895800114,S,23,Not Specified,Male,Jonkoff,Mr., Lalio
+755,1,2,1,2,220845,65,S,48,Not Specified,Female,Herman,Mrs., Samuel (Jane Laver)
+756,1,2,1,1,250649,14.5,S,0.670000017,Not Specified,Male,Hamalainen,Master., Viljo
+757,0,3,0,0,350042,7.795800209,S,28,Not Specified,Male,Carlsson,Mr., August Sigfrid
+758,0,2,0,0,29108,11.5,S,18,Not Specified,Male,Bailey,Mr., Percy Andrew
+759,0,3,0,0,363294,8.050000191,S,34,Not Specified,Male,Theobald,Mr., Thomas Leonard
+760,1,1,0,0,110152,86.5,S,33,B77,Female,Rothes,Countess., of (Lucy Noel Martha Dyer-Edwards)
+761,0,3,0,0,358585,14.5,S,29.7,Not Specified,Male,Garfirth,Mr., John
+762,0,3,0,0,SOTON/O2 3101272,7.125,S,41,Not Specified,Male,Nirva,Mr., Iisakki Antino Aijo
+763,1,3,0,0,2663,7.229199886,C,20,Not Specified,Male,Barah,Mr., Hanna Assi
+764,1,1,1,2,113760,120,S,36,B96 B98,Female,Carter,Mrs., William Ernest (Lucile Polk)
+765,0,3,0,0,347074,7.775000095,S,16,Not Specified,Male,Eklund,Mr., Hans Linus
+766,1,1,1,0,13502,77.95829773,S,51,D11,Female,Hogeboom,Mrs., John C (Anna Andrews)
+767,0,1,0,0,112379,39.59999847,C,29.7,Not Specified,Male,Brewe,Dr., Arthur Jackson
+768,0,3,0,0,364850,7.75,Q,30.5,Not Specified,Female,Mangan,Miss., Mary
+769,0,3,1,0,371110,24.14999962,Q,29.7,Not Specified,Male,Moran,Mr., Daniel J
+770,0,3,0,0,8471,8.362500191,S,32,Not Specified,Male,Gronnestad,Mr., Daniel Danielsen
+771,0,3,0,0,345781,9.5,S,24,Not Specified,Male,Lievens,Mr., Rene Aime
+772,0,3,0,0,350047,7.854199886,S,48,Not Specified,Male,Jensen,Mr., Niels Peder
+773,0,2,0,0,S.O./P.P. 3,10.5,S,57,E77,Female,Mack,Mrs., (Mary)
+774,0,3,0,0,2674,7.224999905,C,29.7,Not Specified,Male,Elias,Mr., Dibo
+775,1,2,1,3,29105,23,S,54,Not Specified,Female,Hocking,Mrs., Elizabeth (Eliza Needs)
+776,0,3,0,0,347078,7.75,S,18,Not Specified,Male,Myhrman,Mr., Pehr Fabian Oliver Malkolm
+777,0,3,0,0,383121,7.75,Q,29.7,F38,Male,Tobin,Mr., Roger
+778,1,3,0,0,364516,12.47500038,S,5,Not Specified,Female,Emanuel,Miss., Virginia Ethel
+779,0,3,0,0,36865,7.737500191,Q,29.7,Not Specified,Male,Kilgannon,Mr., Thomas J
+780,1,1,0,1,24160,211.3374939,S,43,B3,Female,Robert,Mrs., Edward Scott (Elisabeth Walton McMillan)
+781,1,3,0,0,2687,7.229199886,C,13,Not Specified,Female,Ayoub,Miss., Banoura
+782,1,1,1,0,17474,57,S,17,B20,Female,Dick,Mrs., Albert Adrian (Vera Gillespie)
+783,0,1,0,0,113501,30,S,29,D6,Male,Long,Mr., Milton Clyde
+784,0,3,1,2,W./C. 6607,23.45000076,S,29.7,Not Specified,Male,Johnston,Mr., Andrew G
+785,0,3,0,0,SOTON/O.Q. 3101312,7.050000191,S,25,Not Specified,Male,Ali,Mr., William
+786,0,3,0,0,374887,7.25,S,25,Not Specified,Male,Harmer,Mr., Abraham (David Lishin)
+787,1,3,0,0,3101265,7.495800018,S,18,Not Specified,Female,Sjoblom,Miss., Anna Sofia
+788,0,3,4,1,382652,29.125,Q,8,Not Specified,Male,Rice,Master., George Hugh
+789,1,3,1,2,C.A. 2315,20.57500076,S,1,Not Specified,Male,Dean,Master., Bertram Vere
+790,0,1,0,0,PC 17593,79.19999695,C,46,B82 B84,Male,Guggenheim,Mr., Benjamin
+791,0,3,0,0,12460,7.75,Q,29.7,Not Specified,Male,Keane,Mr.," Andrew ""Andy"""
+792,0,2,0,0,239865,26,S,16,Not Specified,Male,Gaskell,Mr., Alfred
+793,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Female,Sage,Miss., Stella Anna
+794,0,1,0,0,PC 17600,30.69580078,C,29.7,Not Specified,Male,Hoyt,Mr., William Fisher
+795,0,3,0,0,349203,7.895800114,S,25,Not Specified,Male,Dantcheff,Mr., Ristiu
+796,0,2,0,0,28213,13,S,39,Not Specified,Male,Otter,Mr., Richard
+797,1,1,0,0,17465,25.92919922,S,49,D17,Female,Leader,Dr., Alice (Farnham)
+798,1,3,0,0,349244,8.683300018,S,31,Not Specified,Female,Osman,Mrs., Mara
+799,0,3,0,0,2685,7.229199886,C,30,Not Specified,Male,Ibrahim Shawah,Mr., Yousseff
+800,0,3,1,1,345773,24.14999962,S,30,Not Specified,Female,Van Impe,Mrs., Jean Baptiste (Rosalie Paula Govaert)
+801,0,2,0,0,250647,13,S,34,Not Specified,Male,Ponesell,Mr., Martin
+802,1,2,1,1,C.A. 31921,26.25,S,31,Not Specified,Female,Collyer,Mrs., Harvey (Charlotte Annie Tate)
+803,1,1,1,2,113760,120,S,11,B96 B98,Male,Carter,Master., William Thornton II
+804,1,3,0,1,2625,8.516699791,C,0.419999987,Not Specified,Male,Thomas,Master., Assad Alexander
+805,1,3,0,0,347089,6.974999905,S,27,Not Specified,Male,Hedman,Mr., Oskar Arvid
+806,0,3,0,0,347063,7.775000095,S,31,Not Specified,Male,Johansson,Mr., Karl Johan
+807,0,1,0,0,112050,0,S,39,A36,Male,Andrews,Mr., Thomas Jr
+808,0,3,0,0,347087,7.775000095,S,18,Not Specified,Female,Pettersson,Miss., Ellen Natalia
+809,0,2,0,0,248723,13,S,39,Not Specified,Male,Meyer,Mr., August
+810,1,1,1,0,113806,53.09999847,S,33,E8,Female,Chambers,Mrs., Norman Campbell (Bertha Griggs)
+811,0,3,0,0,3474,7.887499809,S,26,Not Specified,Male,Alexander,Mr., William
+812,0,3,0,0,A/4 48871,24.14999962,S,39,Not Specified,Male,Lester,Mr., James
+813,0,2,0,0,28206,10.5,S,35,Not Specified,Male,Slemen,Mr., Richard James
+814,0,3,4,2,347082,31.27499962,S,6,Not Specified,Female,Andersson,Miss., Ebba Iris Alfrida
+815,0,3,0,0,364499,8.050000191,S,30.5,Not Specified,Male,Tomlin,Mr., Ernest Portage
+816,0,1,0,0,112058,0,S,29.7,B102,Male,Fry,Mr., Richard
+817,0,3,0,0,STON/O2. 3101290,7.925000191,S,23,Not Specified,Female,Heininen,Miss., Wendla Maria
+818,0,2,1,1,S.C./PARIS 2079,37.00419998,C,31,Not Specified,Male,Mallet,Mr., Albert
+819,0,3,0,0,C 7075,6.449999809,S,43,Not Specified,Male,Holm,Mr., John Fredrik Alexander
+820,0,3,3,2,347088,27.89999962,S,10,Not Specified,Male,Skoog,Master., Karl Thorsten
+821,1,1,1,1,12749,93.5,S,52,B69,Female,Hays,Mrs., Charles Melville (Clara Jennings Gregg)
+822,1,3,0,0,315098,8.662500381,S,27,Not Specified,Male,Lulic,Mr., Nikola
+823,0,1,0,0,19972,0,S,38,Not Specified,Male,Reuchlin,, John George
+824,1,3,0,1,392096,12.47500038,S,27,E121,Female,Moor,Mrs., (Beila)
+825,0,3,4,1,3101295,39.6875,S,2,Not Specified,Male,Panula,Master., Urho Abraham
+826,0,3,0,0,368323,6.949999809,Q,29.7,Not Specified,Male,Flynn,Mr., John
+827,0,3,0,0,1601,56.49580002,S,29.7,Not Specified,Male,Lam,Mr., Len
+828,1,2,0,2,S.C./PARIS 2079,37.00419998,C,1,Not Specified,Male,Mallet,Master., Andre
+829,1,3,0,0,367228,7.75,Q,29.7,Not Specified,Male,McCormack,Mr., Thomas Joseph
+830,1,1,0,0,113572,80,NULL,62,B28,Female,Stone,Mrs., George Nelson (Martha Evelyn)
+831,1,3,1,0,2659,14.45419979,C,15,Not Specified,Female,Yasbeck,Mrs., Antoni (Selini Alexander)
+832,1,2,1,1,29106,18.75,S,0.829999983,Not Specified,Male,Richards,Master., George Sibley
+833,0,3,0,0,2671,7.229199886,C,29.7,Not Specified,Male,Saad,Mr., Amin
+834,0,3,0,0,347468,7.854199886,S,23,Not Specified,Male,Augustsson,Mr., Albert
+835,0,3,0,0,2223,8.300000191,S,18,Not Specified,Male,Allum,Mr., Owen George
+836,1,1,1,1,PC 17756,83.15830231,C,39,E49,Female,Compton,Miss., Sara Rebecca
+837,0,3,0,0,315097,8.662500381,S,21,Not Specified,Male,Pasic,Mr., Jakob
+838,0,3,0,0,392092,8.050000191,S,29.7,Not Specified,Male,Sirota,Mr., Maurice
+839,1,3,0,0,1601,56.49580002,S,32,Not Specified,Male,Chip,Mr., Chang
+840,1,1,0,0,11774,29.70000076,C,29.7,C47,Male,Marechal,Mr., Pierre
+841,0,3,0,0,SOTON/O2 3101287,7.925000191,S,20,Not Specified,Male,Alhomaki,Mr., Ilmari Rudolf
+842,0,2,0,0,S.O./P.P. 3,10.5,S,16,Not Specified,Male,Mudd,Mr., Thomas Charles
+843,1,1,0,0,113798,31,C,30,Not Specified,Female,Serepeca,Miss., Augusta
+844,0,3,0,0,2683,6.4375,C,34.5,Not Specified,Male,Lemberopolous,Mr., Peter L
+845,0,3,0,0,315090,8.662500381,S,17,Not Specified,Male,Culumovic,Mr., Jeso
+846,0,3,0,0,C.A. 5547,7.550000191,S,42,Not Specified,Male,Abbing,Mr., Anthony
+847,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Male,Sage,Mr., Douglas Bullen
+848,0,3,0,0,349213,7.895800114,C,35,Not Specified,Male,Markoff,Mr., Marin
+849,0,2,0,1,248727,33,S,28,Not Specified,Male,Harper,Rev., John
+850,1,1,1,0,17453,89.10420227,C,29.7,C92,Female,Goldenberg,Mrs., Samuel L (Edwiga Grabowska)
+851,0,3,4,2,347082,31.27499962,S,4,Not Specified,Male,Andersson,Master., Sigvard Harald Elias
+852,0,3,0,0,347060,7.775000095,S,74,Not Specified,Male,Svensson,Mr., Johan
+853,0,3,1,1,2678,15.24580002,C,9,Not Specified,Female,Boulos,Miss., Nourelain
+854,1,1,0,1,PC 17592,39.40000153,S,16,D28,Female,Lines,Miss., Mary Conover
+855,0,2,1,0,244252,26,S,44,Not Specified,Female,Carter,Mrs., Ernest Courtenay (Lilian Hughes)
+856,1,3,0,1,392091,9.350000381,S,18,Not Specified,Female,Aks,Mrs., Sam (Leah Rosen)
+857,1,1,1,1,36928,164.8666992,S,45,Not Specified,Female,Wick,Mrs., George Dennick (Mary Hitchcock)
+858,1,1,0,0,113055,26.54999924,S,51,E17,Male,Daly,Mr., Peter Denis 
+859,1,3,0,3,2666,19.25830078,C,24,Not Specified,Female,Baclini,Mrs., Solomon (Latifa Qurban)
+860,0,3,0,0,2629,7.229199886,C,29.7,Not Specified,Male,Razi,Mr., Raihed
+861,0,3,2,0,350026,14.10830021,S,41,Not Specified,Male,Hansen,Mr., Claus Peter
+862,0,2,1,0,28134,11.5,S,21,Not Specified,Male,Giles,Mr., Frederick Edward
+863,1,1,0,0,17466,25.92919922,S,48,D17,Female,Swift,Mrs., Frederick Joel (Margaret Welles Barron)
+864,0,3,8,2,CA. 2343,69.55000305,S,29.7,Not Specified,Female,Sage,Miss.," Dorothy Edith ""Dolly"""
+865,0,2,0,0,233866,13,S,24,Not Specified,Male,Gill,Mr., John William
+866,1,2,0,0,236852,13,S,42,Not Specified,Female,Bystrom,Mrs., (Karolina)
+867,1,2,1,0,SC/PARIS 2149,13.85830021,C,27,Not Specified,Female,Duran y More,Miss., Asuncion
+868,0,1,0,0,PC 17590,50.49580002,S,31,A24,Male,Roebling,Mr., Washington Augustus II
+869,0,3,0,0,345777,9.5,S,29.7,Not Specified,Male,van Melkebeke,Mr., Philemon
+870,1,3,1,1,347742,11.13329983,S,4,Not Specified,Male,Johnson,Master., Harold Theodor
+871,0,3,0,0,349248,7.895800114,S,26,Not Specified,Male,Balkic,Mr., Cerin
+872,1,1,1,1,11751,52.55419922,S,47,D35,Female,Beckwith,Mrs., Richard Leonard (Sallie Monypeny)
+873,0,1,0,0,695,5,S,33,B51 B53 B55,Male,Carlsson,Mr., Frans Olof
+874,0,3,0,0,345765,9,S,47,Not Specified,Male,Vander Cruyssen,Mr., Victor
+875,1,2,1,0,P/PP 3381,24,C,28,Not Specified,Female,Abelson,Mrs., Samuel (Hannah Wizosky)
+876,1,3,0,0,2667,7.224999905,C,15,Not Specified,Female,Najib,Miss.," Adele Kiamie ""Jane"""
+877,0,3,0,0,7534,9.8458004,S,20,Not Specified,Male,Gustafsson,Mr., Alfred Ossian
+878,0,3,0,0,349212,7.895800114,S,19,Not Specified,Male,Petroff,Mr., Nedelio
+879,0,3,0,0,349217,7.895800114,S,29.7,Not Specified,Male,Laleff,Mr., Kristo
+880,1,1,0,1,11767,83.15830231,C,56,C50,Female,Potter,Mrs., Thomas Jr (Lily Alexenia Wilson)
+881,1,2,0,1,230433,26,S,25,Not Specified,Female,Shelley,Mrs., William (Imanita Parrish Hall)
+882,0,3,0,0,349257,7.895800114,S,33,Not Specified,Male,Markun,Mr., Johann
+883,0,3,0,0,7552,10.51669979,S,22,Not Specified,Female,Dahlberg,Miss., Gerda Ulrika
+884,0,2,0,0,C.A./SOTON 34068,10.5,S,28,Not Specified,Male,Banfield,Mr., Frederick James
+885,0,3,0,0,SOTON/OQ 392076,7.050000191,S,25,Not Specified,Male,Sutehall,Mr., Henry Jr
+886,0,3,0,5,382652,29.125,Q,39,Not Specified,Female,Rice,Mrs., William (Margaret Norton)
+887,0,2,0,0,211536,13,S,27,Not Specified,Male,Montvila,Rev., Juozas
+888,1,1,0,0,112053,30,S,19,B42,Female,Graham,Miss., Margaret Edith
+889,0,3,1,2,W./C. 6607,23.45000076,S,29.7,Not Specified,Female,Johnston,Miss.," Catherine Helen ""Carrie"""
+890,1,1,0,0,111369,30,C,26,C148,Male,Behr,Mr., Karl Howell
+891,0,3,0,0,370376,7.75,Q,32,Not Specified,Male,Dooley,Mr., Patrick
